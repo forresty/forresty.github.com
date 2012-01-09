@@ -8,30 +8,54 @@ categories:
 
 It's been months since I put down this site, and it's been months since I left moregg to explore a path of my own.
 
-It was a great time. Finally I was able to learn technical stuffs real seriously, covering the fine details behind each problem I encountered.
+It was a great time.
 
-Just calm down, deep breath, and started to train myself into a hacker. It takes time, and I have plenty of time.
+I made a serious mistake by trying to walk the "PM" path before becoming a good engineer, and now finally I am able to make things right.
+Finally I was able slow down and learn technical stuffs real seriously, covering the fine details behind each and every problem I encountered.
+
+Just sit down, take a deep breath, and started to train myself into a hacker. It takes time, but I have plenty of time.
 
 I learnt Ruby the hard way. I learnt Rails the hard way. I started to re-learn Objective-C and the art of iOS app development.
+I started to solve problems on projecteuler.net and share codes on Github.
 
-I signed up online courses from Stanford: mlclass, aiclass and dbclass, and finished them all.
+<!-- more -->
 
-I started to read in English most of the time, and I read a lot, Kindle is my beloved and trusted friend.
+I signed up online courses from Stanford: mlclass, aiclass and dbclass, and finished them all with good grades,
+simply because I regret did not learn them well at college.
+
+I started to read in English most of the time, and I read a lot.
+After realizing the painful truth that most things written in Chinese (to be precise, Simplifed Chinese) are garbages,
+I know I have to master English, perhaps some more other languages as well.
+Thank you my Kindle for being my beloved and trusted friend.
 
 And now I am writing too.
 
-I started to develop a taste in music. I started to learn playing guitar.
+Then I started to develop a taste in music. I was never really into music before, but thanks to Spotify and iTunes Store and a peaceful mind,
+I got to know a lot of bands and understand different genres.
+Now I cannot imagine my life without music, sometimes they are so good that they almost made me cry.
 
-I learnt to cook.
+I even started to learn playing guitar.
 
-I started to travel. More and more.
+I learnt to cook. Eating healthy and delicious foods in China could be either challenging or luxury. And I have to take care of myself.
 
-I started to provide anti-Great-Firewall-of-China solutions and technical supports for my friends,
+I started to travel. More and more. And I am pretty sure there will be even more. While I would appreciate some great traveling companions,
+traveling alone is quite a rewarding experience.
+
+Mind control, brain wash, poor education, incredible high living pressures,
+blind Patriotism and lack of faith are destroying the younger generation of this country,
+and thus bring about uncertainty to the future, or even pose danger on the entire human race.
+To fight back, I started to provide anti-Great-Firewall-of-China solutions and technical supports for my friends,
 something I thought I would never do because it would be categorized into "fixing the computer".
 
-I started to learn how to love. Truly madly deeply. And I learnt how to hate.
+And after I reclaimed my free will and completed my self-guided rebirth, I suddenly realized I started to know how to love.
 
-Most importantly, I started to believe that kindness, generosity, freewill, bravery, audacity and all other sorts of human virtues are
+It is just, different.
+
+It's the kind of human affection which drive you crazy, to do things you have never done before, and have the courage to face any difficulties.
+
+And I learnt how to hate.
+
+I started to believe that integrity, kindness, generosity, freewill, bravery, audacity and all other sorts of human virtues are
 the foundamentals of modern human society. Without the right values, a person with greater power can do more harm than good.
 
 And that's why I don't like most so-called successful people in China.
@@ -39,6 +63,8 @@ And that's why I don't like most so-called successful people in China.
 And that's why I hate China.
 
 But now, as time calls, hereby I formally announce that I am back to work, ending my gap year early since I have more important things to do.
+
+It's time to start a new adventure. It will be fun.
 
 It's been a great journey, and I think I am more than ready.
 

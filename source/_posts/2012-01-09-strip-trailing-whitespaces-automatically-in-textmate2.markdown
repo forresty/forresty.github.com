@@ -11,6 +11,9 @@ I've been using TextMate2 the moment its alpha was out, and it has already prove
 But there's a problem: I want my codes to be absolutely clean, and trailing whitespaces in lines end really bug me.
 
 Though there's a command in Text Bundle which allows you to manually do the task, I would love TextMate to remove them automatically for me.
+
+<!-- more -->
+
 By default it doesn't have such functionality, but fortunately after some research through the Internet, I found a solution here:
 
 [http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2](http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2)
@@ -24,4 +27,3 @@ It utilizes following script, which is shamelessly copied from Text Bundle in Te
 {% gist 1581221 %}
 
 And that's it. Each time you pressed CMD + S, all trailing whitespaces in lines end are automatically removed before the document is saved. Cheers!
- 
