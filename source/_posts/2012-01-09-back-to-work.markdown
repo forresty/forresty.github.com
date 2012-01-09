@@ -51,7 +51,7 @@ And after I reclaimed my free will and completed my self-guided rebirth, I sudde
 
 It is just, different.
 
-It's the kind of human affection which drive you crazy, to do things you have never done before, and have the courage to face any difficulties.
+It's the kind of human affection which drives you crazy, to do things you have never done before, and have the courage to face any difficulties.
 
 And I learnt how to hate.
 
@@ -62,11 +62,12 @@ And that's why I don't like most so-called successful people in China.
 
 And that's why I hate China.
 
-But now, as time calls, hereby I formally announce that I am back to work, ending my gap year early since I have more important things to do.
+Everything that has a beginning has an end. 
+Now, as time calls, hereby I formally announce that I am back to work, ending my gap year early since I have more important things to do.
 
-It's time to start a new adventure. It will be fun.
+It's been a great journey, but It's time to start a new adventure. It will be fun.
 
-It's been a great journey, and I think I am more than ready.
+I think I am more than ready.
 
 If my life is meant to be running at the speed of 180 MPH, so be it :)
 
