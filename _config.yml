@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://forresty.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://forresty.com
+title: Forrest Ye's Blog
+subtitle: Stuff.create! until the_end_of_the_world
+author: Forrest Ye
 simple_search: http://google.com/search
 description:
 
