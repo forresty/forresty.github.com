@@ -5,13 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Blog Archive - Forrest Ye's Blog</title>
+  <title>strip trailing whitespaces automatically in TextMate2 - Forrest Ye's Blog</title>
   <meta name="author" content="Forrest Ye">
 
   
-  <meta name="description" content="Blog Archive 2012 strip trailing whitespaces automatically in TextMate2
-Jan 09 2012 posted in TextMate2 back to work
-Jan 09 2012 Recent Posts strip &hellip;">
+  <meta name="description" content="I&#8217;ve been using TextMate2 the moment its alpha is out, and it has already proved itself good enough for my day-to-day coding tasks. But there&# &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -20,7 +18,7 @@ Jan 09 2012 Recent Posts strip &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://forresty.com/blog/archives">
+  <link rel="canonical" href="http://forresty.com/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <script src="/javascripts/modernizr-2.0.js"></script>
@@ -65,45 +63,106 @@ Jan 09 2012 Recent Posts strip &hellip;">
   <div id="main">
     <div id="content">
       <div>
-<article role="article">
+<article class="hentry" role="article">
   
   <header>
-    <h1 class="entry-title">Blog Archive</h1>
+    
+      <h1 class="entry-title">Strip Trailing Whitespaces Automatically in TextMate2</h1>
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-09T12:45:00+08:00" pubdate data-updated="true">Jan 9<span>th</span>, 2012</time>
+        
+      </p>
     
   </header>
-  
-  <div id="blog-archives">
 
 
+<div class="entry-content"><p>I&#8217;ve been using TextMate2 the moment its alpha is out, and it has already proved itself good enough for my day-to-day coding tasks.</p>
 
-  
-  <h2>2012</h2>
+<p>But there&#8217;s a problem: I want my codes to be absolutely clean, and trailing whitespaces in lines end really bug me.</p>
 
-<article>
-  
-<h1><a href="/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2/">strip trailing whitespaces automatically in TextMate2</a></h1>
-<time datetime="2012-01-09T12:45:00+08:00" pubdate><span class='month'>Jan</span> <span class='day'>09</span> <span class='year'>2012</span></time>
+<p>By default TextMate doesn&#8217;t have such functionality, but fortunately after some research through the Internet, I found a solution here:</p>
 
-<footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/textmate2/'>TextMate2</a></span>
-</footer>
+<p><a href="http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2">http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2</a></p>
 
+<p>In a nutshell, you need to create a custom bundle with a custom command looks like this:</p>
 
-</article>
+<p><img src="/images/textmate2-strip-whitespaces.png"></p>
 
+<p>The following script is used to strip whitespaces, shamelessly copied from Text Bundle in TextMate:</p>
 
+<div><script src='https://gist.github.com/1581221.js?file='></script>
+<noscript><pre><code>#!/usr/bin/env bash
+[[ -f &quot;${TM_SUPPORT_PATH}/lib/bash_init.sh&quot; ]] &amp;&amp; . &quot;${TM_SUPPORT_PATH}/lib/bash_init.sh&quot;
 
-<article>
-  
-<h1><a href="/blog/2012/01/09/back-to-work/">back to work</a></h1>
-<time datetime="2012-01-09T10:52:00+08:00" pubdate><span class='month'>Jan</span> <span class='day'>09</span> <span class='year'>2012</span></time>
+perl -pe 's/[\t ]+$//g'
+</code></pre></noscript></div>
 
 
-</article>
-
+<p>And that&#8217;s it. Each time you pressed CMD + S, all trailing whitespaces in lines end are automatically removed before the document is saved. Cheers!</p>
 </div>
 
+
+  <footer>
+    <p class="meta">
+      
   
+
+<span class="byline author vcard">Posted by <span class="fn">Forrest Ye</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2012-01-09T12:45:00+08:00" pubdate data-updated="true">Jan 9<span>th</span>, 2012</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/textmate2/'>TextMate2</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://forresty.com/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2/" data-via="forresty" data-counturl="http://forresty.com/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/blog/2012/01/09/back-to-work/" title="Previous Post: back to work">&laquo; back to work</a>
+      
+      
+    </p>
+  </footer>
 </article>
 
 </div>
