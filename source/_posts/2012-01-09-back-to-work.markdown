@@ -24,7 +24,7 @@ I signed up online courses from Stanford: mlclass, aiclass and dbclass, and fini
 simply because I regret did not learn them well at college.
 
 I started to read in English most of the time, and I read a lot.
-After realizing the painful truth that most things written in Chinese (to be precise, Simplifed Chinese) are garbages,
+After realizing the painful truth that most things written in Chinese (to be precise, Simplified Chinese) are garbages,
 I know I have to master English, perhaps some more other languages as well.
 Thank you my Kindle for being my beloved and trusted friend.
 
