@@ -4,7 +4,7 @@
   <title><![CDATA[Category: TextMate2 | Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/blog/categories/textmate2/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-01-10T00:53:22+08:00</updated>
+  <updated>2012-01-10T01:44:35+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -22,8 +22,12 @@
 
 <p>But there's a problem: I want my codes to be absolutely clean, and trailing whitespaces in lines end really bug me.</p>
 
-<p>Though there's a command in Text Bundle which allows you to manually do the task, I would love TextMate to remove them automatically for me.
-By default it doesn't have such functionality, but fortunately after some research through the Internet, I found a solution here:</p>
+<p>Though there's a command in Text Bundle which allows you to manually do the task, I would love TextMate to remove them automatically for me.</p>
+
+<!-- more -->
+
+
+<p>By default it doesn't have such functionality, but fortunately after some research through the Internet, I found a solution here:</p>
 
 <p><a href="http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2">http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2</a></p>
 
