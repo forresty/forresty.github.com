@@ -60,9 +60,9 @@ the foundamentals of modern human society. Without the right values, a person wi
 
 And that's why I don't like most so-called successful people in China.
 
-And that's why I hate China.
+And that's why I hate China. And that's why I am leaving.
 
-Everything that has a beginning has an end. 
+Everything that has a beginning has an end.
 Now, as time calls, hereby I formally announce that I am back to work, ending my gap year early since I have more important things to do.
 
 It's been a great journey, but It's time to start a new adventure. It will be fun.
