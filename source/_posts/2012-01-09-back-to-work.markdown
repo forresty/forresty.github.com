@@ -52,6 +52,7 @@ And after I reclaimed my free will and completed my self-guided rebirth, I sudde
 It is just, different.
 
 It's the kind of human affection which drives you crazy, to do things you have never done before, and have the courage to face any difficulties.
+It can make you the happiest and the most miserable person in the world at the same time.
 
 And I learnt how to hate.
 
