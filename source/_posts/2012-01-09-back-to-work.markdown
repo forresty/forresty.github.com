@@ -41,7 +41,7 @@ I learnt to cook. Eating healthy and delicious foods in China could be either ch
 I started to travel. More and more. And I am pretty sure there will be even more. While I would appreciate some great traveling companions,
 traveling alone is quite a rewarding experience.
 
-Mind control, brain wash, poor education, incredible high living pressures,
+Mind control, brain wash, poor education, incredibly high living pressures, moral degradation,
 blind Patriotism and lack of faith are destroying the younger generation of this country,
 and thus bring about uncertainty to the future, or even pose danger on the entire human race.
 To fight back, I started to provide anti-Great-Firewall-of-China solutions and technical supports for my friends,
