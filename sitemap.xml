@@ -2,20 +2,14 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://forresty.com/blog/2012/01/09/back-to-work/</loc>
-        <lastmod>2012-01-11T22:11:26+08:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://forresty.com/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2/
-        </loc>
-        <lastmod>2012-01-10T01:05:38+08:00</lastmod>
+        <lastmod>2012-01-11T23:56:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://forresty.com/blog/archives/</loc>
-        <lastmod>2012-01-11T22:11:26+08:00</lastmod>
+        <lastmod>2012-01-11T23:56:44+08:00</lastmod>
     </url>
     <url>
         <loc>http://forresty.com/</loc>
-        <lastmod>2012-01-11T22:11:26+08:00</lastmod>
+        <lastmod>2012-01-11T23:56:44+08:00</lastmod>
     </url>
 </urlset>

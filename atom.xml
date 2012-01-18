@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-01-11T22:11:46+08:00</updated>
+  <updated>2012-01-18T18:25:27+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,42 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[strip trailing whitespaces automatically in TextMate2]]></title>
-    <link href="http://forresty.com/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2/"/>
-    <updated>2012-01-09T12:45:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/01/09/strip-trailing-whitespaces-automatically-in-textmate2</id>
-    <content type="html"><![CDATA[<p>I&#8217;ve been using TextMate2 the moment its alpha was out, and it has already proved itself good enough for my day-to-day coding tasks.</p>
-
-<p>But there&#8217;s a problem: I want my codes to be absolutely clean, and trailing whitespaces in lines end really bug me.</p>
-
-<p>Though there&#8217;s a command in Text Bundle which allows you to manually do the task, I would love TextMate to remove them automatically for me.</p>
-
-<!-- more -->
-
-
-<p>By default it doesn&#8217;t have such functionality, but fortunately after some research through the Internet, I found a solution here:</p>
-
-<p><a href="http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2">http://reinteractive.net/posts/4-stripping-whitespace-out-of-textmate-2</a></p>
-
-<p>In a nutshell, you need to create a custom bundle with a custom command looks like this:</p>
-
-<p><img src="http://forresty.com/images/textmate2-strip-whitespaces.png"></p>
-
-<p>It utilizes following script, which is shamelessly copied from Text Bundle in TextMate:</p>
-
-<div><script src='https://gist.github.com/1581221.js?file='></script>
-<noscript><pre><code>#!/usr/bin/env bash
-[[ -f &quot;${TM_SUPPORT_PATH}/lib/bash_init.sh&quot; ]] &amp;&amp; . &quot;${TM_SUPPORT_PATH}/lib/bash_init.sh&quot;
-
-perl -pe 's/[\t ]+$//g'
-</code></pre></noscript></div>
-
-
-<p>And that&#8217;s it. Each time you pressed CMD + S, all trailing whitespaces in lines end are automatically removed before the document is saved. Cheers!</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[back to work]]></title>
