@@ -11,9 +11,9 @@ It's been months since I put down this site, and it's been months since I left m
 It was a great time.
 
 I made a serious mistake by trying to walk the "PM" path before becoming a good engineer, and now finally I am able to make things right.
-Finally I was able slow down and learn technical stuffs real seriously, covering the fine details behind each and every problem I encountered.
+Finally I was able slow down and learn technical issues real seriously, covering the fine details behind each and every problem I encountered.
 
-Just sit down, take a deep breath, and started to train myself into a hacker. It takes time, but I have plenty of time.
+Just sit down, take a deep breath, and start to train myself into a hacker. It takes time, but I have plenty of time.
 
 I learnt Ruby the hard way. I learnt Rails the hard way. I started to re-learn Objective-C and the art of iOS app development.
 I started to solve problems on projecteuler.net and share codes on Github.
