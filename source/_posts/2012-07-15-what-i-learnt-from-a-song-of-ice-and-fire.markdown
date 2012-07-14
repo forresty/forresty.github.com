@@ -12,7 +12,7 @@ I think by far this is the greatest book in the series, and according to user co
 
 In general, in my opinion A Song of Ice and Fire is an incredibly well written fantasy series, much better than The Lord of the Rings or the Dragonlance Chronicles Trilogy. I would give it a solid five-star.
 
-What is so wonderful about this series is that it feels so real. Since my English sucks so I would simply quote Wikipedia:
+What is so wonderful about this series is that it feels so real. Since my English sucks I would simply quote Wikipedia:
 
 _...Martin deliberately defied the conventions of the fantasy genre. The series received praise for its realism; it subdues magic in favor of battles and political intrigue. Violence, sexuality and moral ambiguity are frequently displayed among a set of over a thousand named characters. Major characters are repeatedly killed off so that readers cannot rely on the supposed heroes to remain safe and sound. The multiple viewpoint structure allows characters to be explored from many sides so that the supposed villains can provide their viewpoint._
 
