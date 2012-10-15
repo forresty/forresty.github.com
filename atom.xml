@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-02-03T23:12:55+08:00</updated>
+  <updated>2012-10-16T00:19:53+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -14,89 +14,611 @@
 
   
   <entry>
-    <title type="html"><![CDATA[back to work]]></title>
-    <link href="http://forresty.com/blog/2012/01/09/back-to-work/"/>
-    <updated>2012-01-09T10:52:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/01/09/back-to-work</id>
-    <content type="html"><![CDATA[<p>It&#8217;s been months since I put down this site, and it&#8217;s been months since I left moregg to explore a path of my own.</p>
+    <title type="html"><![CDATA[smoking and quitting]]></title>
+    <link href="http://forresty.com/blog/2012/10/15/smoking-and-quitting/"/>
+    <updated>2012-10-15T20:58:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/10/15/smoking-and-quitting</id>
+    <content type="html"><![CDATA[<p>How long must you have managed not to light up a single cigarette can you consider yourself successfully gotten rid of the addiction to smoking? One month? Three months? Or a year?</p>
 
-<p>It was a great time.</p>
+<p>For me, as a self-identified soft-core smoker, only one month into forcing myself not to smoke, already have I started to notice a lot of interesting things happening around me.</p>
 
-<p>I made a serious mistake by trying to walk the &#8220;PM&#8221; path before becoming a good engineer, and now finally I am able to make things right.
-Finally I was able slow down and learn technical issues real seriously, covering the fine details behind each and every problem I encountered.</p>
+<p>For a starter, I begin to notice that people are smoking everywhere. Every single one of them. Every single burning cigarette within my eyesight, with every hand holding it. Even the butts on the ground caught my attentions as well. And all the no-smoking signs. And all the ashtrays, in public places or not.</p>
 
-<p>Just sit down, take a deep breath, and start to train myself into a hacker. It takes time, but I have plenty of time.</p>
+<p>It is quite interesting actually, a bit similar to the effects of weed smoking, but instead of being able to focus on whatever you wanted to see, you only see cigarettes. I don’t know for sure, but maybe a better analogy is when you are so horny all you see is just boobs and naked skins and short skirts. Our brain is such a fascinating device.</p>
 
-<p>I learnt Ruby the hard way. I learnt Rails the hard way. I started to re-learn Objective-C and the art of iOS app development.
-I started to solve problems on projecteuler.net and share codes on Github.</p>
+<p>My body is telling me that it crave for cigarettes, or more accurately, nicotine. Feeling compelled to do things is not a happy experience. As mortal human, we have already submitted ourselves to the necessity of daily dose of foods and sleep, to be added up with occasional urges of to work, to spend money, to talk to people and to engage in sexual activities. We could argue whether or not we need any more of these mental and physical burdens, to such extent that we create and cast more and more upon ourselves. Can you imagine yourself living without electricity? Without hot water? Without Internet access? To have desires is healthy, to want something new or different is understandable and can be encouraged, but what about to have addictions that we normally or naturally don’t need?</p>
+
+<p>People generally wanted to be free. We improved our technologies on growing foods so the majority of us can be freed from being forced to stay in the field all day, we invented telephones and the Internet so we can be freed from waiting a long time for mail responses and enduring difficulties to access to knowledges, we subverted evil regimes so we can be freed from mandate taxes and bullshits forcefully posed upon us. Our flesh so fragile that we cannot endure the pressure of hundreds of meters under water, yet we’ve sent men to the deepest corners of the oceans with a depth of one hundred times more; metal is more than one thousand times heavier than air, yet we’ve built machines using these stardusts that can carry us up into the air and across the seas.</p>
+
+<p>Occasional smoking is good and relaxing, and it helps you gain and maintain focus during work. Most important characters in Ayn Rand’s books smoke. As a man-worshipping reason-loving atheist, Ayn Rand’s notion that smoking as a symbol of the power of man being able to control fire in finger tips makes much sense to me. But being forced to do so regularly really bugs me. Caffeine too, with it we enjoy a boost of productivity, but without it we fell deeply into a state of grumpy rapidly. Why, don’t we have choices? So is there really such a thing as freewill? Or are these addictions a price we need to pay in order to fully enjoy the advancements we’ve achieved? Can we take off our helmets while conquering the stars and galaxies? Can we?</p>
+
+<p>Being alive is a very unnatural state of existence, since we weren’t born before we arrived in this world as a conscious creature, and we will be dead and remain dead after only a couple of years of living. Time is short, maybe I should not worry so much, so long as I know I love to read books and write down random pseudo-intellectual thoughts such as this, so long as I enjoy a lot reading and writing codes, so long as I understand that there are people to love and things to hate, so long as I see there are so much to learn that perhaps one million lifetimes are not enough, so long as I believe there are a lot to fight for and fight against and I am willing to do that, maybe I should just yield to this seemingly tiny issue?</p>
+
+<p>Or maybe I will never yield.</p>
+
+<p>Should I?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[三岛由纪夫]]></title>
+    <link href="http://forresty.com/blog/2012/08/18/yukio-mishima/"/>
+    <updated>2012-08-18T00:39:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/08/18/yukio-mishima</id>
+    <content type="html"><![CDATA[<p>引自<a href="http://zh.wikipedia.org/zh-cn/%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB">维基百科</a>：</p>
+
+<p>… 因为过分的保护与管教，构成他贫弱的体质与孤独、甚至有点女性化的人格特质。</p>
+
+<p>三岛的作品在西方世界也有崇高的评价，甚至有人誉称他为<strong>「日本的海明威」</strong>，曾三度入围诺贝尔文学奖，也是著作被翻译成英文等外国语版最多的当代作家。</p>
+
+<p>三岛性好热闹，三教九流之辈无不结交，好美酒，嗜佳肴，高朋满座，列位无虚席，十足是一位花花公子。</p>
+
+<p>1944年第二次世界大战进入最后阶段，日本的处境开始急转直下，三岛由纪夫收到了征兵检查通知，判定是第二乙种体位，需要随时等待征召。</p>
+
+<p>1945年日本在战局中已处于强弩之末的境地，三岛由纪夫终于被征召。首先前往群马县隶属中岛飞行机的兵工厂担任勤劳动员，又马上被正式征入军伍。但因为出发参战之前罹患严重的感冒，军医误诊以为是肺病，结果立刻被遣送回乡。他隶属的部队抵达菲律宾后，在战争中严重折損几乎全军覆没，使得三岛一直认为自己本应为国壮烈牺牲却苟且延活的某种遗憾心态，这可能与他生前激烈的政治主张与最后戏剧性的自杀事件有所关联。</p>
+
+<p>虽然逃过了死亡的命运，但是1945年对于三岛来说是很伤痛的一年，8月15日日本宣布败战投降，四天之后三岛在《文艺文化》的好友莲田善明，以陆军中尉的身份在马来半岛自杀。同年10月23日他的妹妹美津子因伤寒病逝，时年仅17岁。种种打击，使得三岛陷入了人生的低潮。</p>
+
+<p>在川端康成的帮助下，三岛由纪夫终于获得晋身文坛一员的地位，因此对他而言川端是个亦师亦友的重要人物。</p>
+
+<p>早年的三岛始终带有女性的阴柔气质，他厌恶剑道，甚至厌恶剑道砍击时所发出的声音。<strong>1955年，时年30岁的三岛，感受到自己对于美的憧憬，开始上健身房运动及游泳，甚至娴习剑道，以期将自幼以来孱弱的身体改造得强健，让自己不再为肉体的自卑而感到困扰。</strong></p>
+
+<p>1968年诺贝尔文学奖公布得主是川端康成，三岛在第一时间得知得主不是他，脸色铁青一言不发驾着自家跑车上高速公路奔数小时，显见未能得奖对他打击极深。</p>
+
+<hr />
+
+<p>看着电脑屏幕上三岛由纪夫健身前后的体格对比，再低头看着右手手心为了掐灭烟头而留下的两颗水泡，我实在无法不对这个最后敢于用刀切开自己腹肌的男人致以崇高的敬意。</p>
+
+<p>于是默默地打开豆瓣，把《金阁寺》和《假面的告白》加入到本已够长的待读列表。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Notes and Quotes of Cassandra The Definitive Guide, Part-1: Introduction]]></title>
+    <link href="http://forresty.com/blog/2012/08/11/cassandra-notes-part-1/"/>
+    <updated>2012-08-11T15:11:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/08/11/cassandra-notes-part-1</id>
+    <content type="html"><![CDATA[<p>Following are the notes I took while reading <a href="http://www.amazon.com/Cassandra-Definitive-Guide-Eben-Hewitt/dp/1449390412"><em>Cassandra The Definitive Guide</em></a>. I am taking a client work that requires me to use Cassandra, so I picked up this book to get familiar with it. It was a good read.</p>
+
+<p>This article is for Chapter 1 the introduction of Cassandra and in general NoSQL. Since I am not an expert in this field, it contains a lot of quotes from the book. In fact, there are so many quotes in this article that many sentences not appear in blockquotes are actually quotes as well. Apologies for that.</p>
+
+<p>I expect myself to write at least one more article on this book, which will be more on the technical details as described in the rest of the book.</p>
 
 <!-- more -->
 
 
-<p>I signed up online courses from Stanford: mlclass, aiclass and dbclass, and finished them all with good grades,
-simply because I regret did not learn them well at college.</p>
+<h2>History and Background</h2>
 
-<p>I started to read in English most of the time, and I read a lot.
-After realizing the painful truth that most things written in Chinese (to be precise, Simplified Chinese) are garbages,
-I know I have to master English, perhaps some more other languages as well.
-Thank you my Kindle for being my beloved and trusted friend.</p>
+<p>Cassandra was <strong>open-sourced by Facebook</strong> in July 2008. It was <strong>strongly influenced by Amazon&#8217;s Dynamo</strong> with its Dynamo-style replication model with <strong>no single point of failure</strong>, but adds a more powerful <strong>&#8220;column family&#8221;</strong> data model.</p>
 
-<p>And now I am writing too.</p>
+<p>The code was released as an open source Google Code project in July 2008. During its tenure as a Google Code project in 2008, the code was updateable only by Facebook engineers, and little community was built around it as a result. So in March 2009 it was moved to an Apache Incubator project, and on February 17, 2010 it was voted into a top-level project. Cassandra graduated from the Apache Incubator in March 2010.</p>
 
-<p>Then I started to develop a taste in music. I was never really into music before, but thanks to Spotify and iTunes Store and a peaceful mind,
-I got to know a lot of bands and understand different genres.
-Now I cannot imagine my life without music, sometimes they are so good that they almost made me cry.</p>
+<p><strong>How Did Cassandra Get Its Name?</strong></p>
 
-<p>I even started to learn playing guitar.</p>
+<p>In Greek mythology, Cassandra was the daughter of King Priam and Queen Hecuba of Troy. Cassandra was so beautiful that the god Apollo gave her the ability to see the future. But when she refused his amorous advances, he cursed her such that she would still be able to accurately predict everything that would happen—but no one would believe her. Cassandra foresaw the destruction of her city of Troy, but was powerless to stop it.</p>
 
-<p>I learnt to cook. Eating healthy and delicious foods in China could be either challenging or luxury. And I have to take care of myself.</p>
+<h2>Hierarchical Databases, Relational Databases and NoSQL</h2>
 
-<p>I started to travel. More and more. And I am pretty sure there will be even more. While I would appreciate some great traveling companions,
-traveling alone is quite a rewarding experience.</p>
+<h3>Hierarchical Databases</h3>
 
-<p>I began to respect more about intellectual properties. Every app I use on my Mac and my iPhone is either genuine or free,
-and every e-book I read is either purchased from Kindle Store or The Pragmatic Bookshelf or somewhere else.
-It feels great. After all, they are all produced by programmers and writers like me, or the me I wanted so bad to become.
-And if you really try, it&#8217;s not difficult at all.</p>
+<p><a href="http://en.wikipedia.org/wiki/IBM_Information_Management_System">Information Management System</a> (IMS) by IBM was a very successful hierarchical database which is accessible over a <strong>TCP/IP interface</strong> and is available from a variety of languages. It was difficult to use but nevertheless achieved wide adoption. <strong>IMS was built for use in the Saturn V moon rocket.</strong></p>
 
-<p>And I got used to making no compromises. Whenever I can, I would rather have nothing at all than having something that is merely okay.
-I would rather be alone than spending my time with people I don&#8217;t care. It&#8217;s rather difficult, but life is never easy,
-and the road less traveled almost always leads to some place more beautiful.</p>
+<p>Then a new model came along: relational databases. And the rest was history.</p>
 
-<p>Mind control, brain wash, poor education, incredibly high living pressures, moral degradation,
-blind Patriotism and lack of faith are destroying the younger generation of this country,
-and thus bring about uncertainty to the future, or even pose danger on the entire human race.
-To fight back, I started to provide anti-Great-Firewall-of-China solutions and technical supports for my friends,
-something I thought I would never do because it would be categorized into &#8220;fixing the computer&#8221;.</p>
+<h3>Relational Databases</h3>
 
-<p>And after I reclaimed my free will and completed my self-guided rebirth, I suddenly realized I started to know how to love.</p>
+<p>Dr. Edgar F.Codd at IBM wrote a paper <strong>&#8220;A Relational Model of Data for Large Shared Data Banks&#8221;</strong> which is still available at <a href="http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf">http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf</a> became the foundational work for relational database management systems.</p>
 
-<p>It is just, different.</p>
+<p>Then a lot of things happened. Then relational databases became a key facet of the modern technology and business landscape.</p>
 
-<p>It&#8217;s the kind of human affection which drives you crazy, to do things you have never done before, and have the courage to face any difficulties.
-It can make you the happiest and the most miserable person in the world at the same time.</p>
+<h4>SQL as We All Known and Loved</h4>
 
-<p>And I learnt how to hate.</p>
+<p>SQL is a huge part of relational databases. It was first officially adopted as an ANSI standard in 1986, and is powerful for a variety of reasons:</p>
 
-<p>I started to believe that integrity, kindness, generosity, freewill, bravery, audacity and all other sorts of human virtues are
-the foundamentals of modern human society. Without the right values, a person with greater power can do more harm than good.</p>
+<ul>
+<li>great expressive power</li>
+<li>easy to use</li>
+<li>easy integration with RDBMS</li>
+</ul>
 
-<p>And that&#8217;s why I don&#8217;t like most so-called successful people in China.</p>
 
-<p>And that&#8217;s why I hate China. And that&#8217;s why I am leaving.</p>
+<h4>Transactions, ACID-ity, and two-phase commit</h4>
 
-<p>Everything that has a beginning has an end.
-Now, as time calls, hereby I formally announce that I am back to work, ending my gap year early since I have more important things to do.</p>
+<p>A database transaction is, as Jim Gray puts it, <strong>“a transformation of state” that has the ACID properties</strong> (see <a href="http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf">http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf</a>)</p>
 
-<p>It&#8217;s been a great journey, but It&#8217;s time to start a new adventure. It will be fun.</p>
+<h5>What is ACID?</h5>
 
-<p>I think I am more than ready.</p>
+<blockquote><p>ACID is an acronym for <strong>Atomic</strong>, <strong>Consistent</strong>, <strong>Isolated</strong>, <strong>Durable</strong>, which are the gauges we can use to assess that a transaction has executed properly and that it was successful:</p>
 
-<p>If my life is meant to be running at the speed of 180 MPH, so be it :)</p>
+<p><strong>Atomic</strong></p>
 
-<p>Hell, I am back to work.</p>
+<p>Atomic means “all or nothing”; that is, when a statement is executed, every update within the transaction must succeed in order to be called successful. There is no partial failure where one update was successful and another related update failed. The common example here is with monetary transfers at an ATM: the transfer requires subtracting money from one account and adding it to another account. This operation cannot be subdivided; they must both succeed.</p>
 
-<p>To infinity and beyond.</p>
+<p><strong>Consistent</strong></p>
+
+<p>Consistent means that data moves from one correct state to another correct state, with no possibility that readers could view different values that don’t make sense together. For example, if a transaction attempts to delete a Customer and her Order history, it cannot leave Order rows that reference the deleted customer’s primary key; this is an inconsistent state that would cause errors if someone tried to read those Order records.</p>
+
+<p><strong>Isolated</strong></p>
+
+<p>Isolated means that transactions executing concurrently will not become entangled with each other; they each execute in their own space. That is, if two different transactions attempt to modify the same data at the same time, then one of them will have to wait for the other to complete.</p>
+
+<p><strong>Durable</strong></p>
+
+<p>Once a transaction has succeeded, the changes will not be lost. This doesn’t imply another transaction won’t later modify the same data; it just means that writers can be confident that the changes are available for the next transaction to work with as necessary.</p></blockquote>
+
+<h5>What&#8217;s wrong with Transactions?</h5>
+
+<p><strong>Transactions are expensive and we might not need it all the time, and it become difficult under heavy load.</strong> When you first attempt to horizontally scale a relational database, you must now account for <em>distributed transations</em>, where the transaction isn’t simply operating inside a single table or a single database, but is spread across multiple systems. <strong>In order to continue to honor the ACID properties of transactions, you now need a transaction manager to orchestrate across the multiple nodes.</strong></p>
+
+<p>In order to account for successful completion across multiple hosts, the idea of a <strong>two-phase commit</strong> (sometimes referred to as “2PC”) is introduced. But then, because two-phase commit locks all associate resources, it is useful only for operations that can complete very quickly.</p>
+
+<p>Two-phase commit blocks, so clients must <strong>wait for a prior transaction to finish before they can access the blocked resource.</strong> After submitting a commit operation, the node will wait for the coordinator to send a commit response (or a rollback response if, say, a different node can’t commit).</p>
+
+<blockquote><p><strong>So in order to account for these shortcomings in two-phase commit of distributed transactions, the database world turned to the idea of compensation.</strong> Compensation, often used in web services, means in simple terms that the operation is immediately committed, and then in the event that some error is reported, a new operation is invoked to restore proper state.</p>
+
+<p>There are a few basic, well-known patterns for compensatory action that architects frequently have to consider as an alternative to two-phase commit. These include <strong>writing off the transaction if it fails, deciding to discard erroneous transactions and reconciling later</strong>. Another alternative is to <strong>retry failed operations later on notification</strong>.</p>
+
+<p><strong>In a reservation system or a stock sales ticker, these are not likely to meet your requirements. For other kinds of applications, such as billing or ticketing applications, this can be acceptable.</strong></p></blockquote>
+
+<p>Gregor Hohpe, a Google architect, wrote a wonderful and often-cited blog entry called <strong>“Starbucks Does Not Use Two-Phase Commit.”</strong> It shows in real-world terms how difficult it is to scale two-phase commit and highlights some of the alternatives that are mentioned here. <a href="http://www.eaipatterns.com/ramblings/18_starbucks.html">http://www.eaipatterns.com/ramblings/18_starbucks.html</a></p>
+
+<h4>Schema</h4>
+
+<p>Schema is how you map your domain objects into a relational model. Since we are application developers, we are all familiar with database schema and Object-Relational Mapping (ORM).</p>
+
+<p>However:</p>
+
+<blockquote><p>… <strong>you are forced to create tables that don’t exist as business objects in your domain</strong>. For example, a schema for a university database might require a Student table and a Course table. <strong>But because of the “many-to-many” relationship here (one student can take many courses at the same time, and one course has many students at the same time), you have to create a join table.</strong> This pollutes a pristine data model, where we’d prefer to just have students and courses. It also forces us to create more complex SQL statements to join these tables together. The join statements, in turn, can be slow.</p>
+
+<p>… <strong>not all schemas map well to the relational model</strong>. One type of system that has risen in popularity in the last decade is the <strong>complex event processing system, which represents state changes in a very fast stream</strong>. It’s often useful to contextualize events at runtime against other events that might be related in order to infer some conclusion to support business decision making. Although event streams could be represented in terms of a relational database, it is an uncomfortable stretch.</p></blockquote>
+
+<h4>Sharding and shared-nothing architecture</h4>
+
+<p>A way to attempt to scale a relational database is to introduce sharding to your architecture.</p>
+
+<blockquote><p>… The idea here is that you <strong>split the data</strong> so that instead of hosting all of it on a single server or replicating all of the data on all of the servers in a cluster, you divide up portions of the data horizontally and host them each separately.</p></blockquote>
+
+<p>There are three basic strategies for determining shard structure:</p>
+
+<blockquote><p><strong>Feature-based shard or functional segmentation</strong></p>
+
+<p>Using this strategy, the data is split not by dividing records in a single table (as in the customer example discussed earlier), but rather by splitting into separate databases the features that don’t overlap with each other very much. For example, at eBay, the users are in one shard, and the items for sale are in another.</p>
+
+<p><strong>Key-based sharding</strong></p>
+
+<p>In this approach, you find a key in your data that will evenly distribute it across shards. A not-so-good example is you could divide your customer records across 26 machines, one for each letter of the alphabet.</p>
+
+<p><strong>Lookup table</strong></p>
+
+<p>In this approach, one of the nodes in the cluster acts as a “yellow pages” directory and looks up which node has the data you’re trying to access. <strong>This has two obvious disadvantages.</strong> The first is that you’ll take a performance hit every time you have to go through the lookup table as an additional hop. The second is that the lookup table not only becomes a bottleneck, but a single point of failure.</p></blockquote>
+
+<p>Sharding could be termed a kind of “shared-nothing” architecture that’s specific to databases. <strong>A shared-nothing architecture is one in which there is no centralized (shared) state, but each node in a distributed system is independent, so there is no client contention for shared resources.</strong> The term was first coined by Michael Stonebraker at University of California at Berkeley in his 1986 paper “The Case for Shared Nothing.”</p>
+
+<p>Shared Nothing was more <strong>recently popularized by Google</strong>, which has written systems such as its Bigtable database and its MapReduce implementation that do not share state, and are therefore capable of <strong>near-infinite scaling</strong>. <strong>The Cassandra database is a shared-nothing architecture</strong>, as it has no central controller and no notion of master/slave; all of its nodes are the same.</p>
+
+<h3>NoSQL</h3>
+
+<p>Why NoSQL?</p>
+
+<p>Let&#8217;s have a look at how we typically address relational database scaling problems:</p>
+
+<blockquote><p>We typically address these problems in one or more of the following ways, sometimes in this order:</p>
+
+<ul>
+<li>Throw hardware at the problem by <strong>adding more memory, adding faster processors, and upgrading disks</strong>.</li>
+<li>… add hardware in the form of <strong>additional boxes in a database cluster</strong>. Now you have the problem of data replication and consistency during regular usage and in failover scenarios. You didn’t have that problem before.</li>
+<li>Now we need to update the configuration of the database management system. This might mean optimizing the channels the database uses to write to the underlying filesystem. We turn off logging or journaling, which frequently is not a desirable (or, depending on your situation, legal) option.</li>
+<li>Having put what attention we could into the database system, we turn to our application. We try to <strong>improve our indexes. We optimize the queries.</strong></li>
+<li>We employ a <strong>caching layer</strong>.</li>
+<li>We turn our attention to the database again and decide that, now that the application is built and we understand the primary query paths, we can duplicate some of the data to make it look more like the queries that access it. <strong>This process, called denormalization, is antithetical to the five normal forms that characterize the relational model, and violate Codd’s 12 Commandments for relational data.</strong> We remind ourselves that we live in this world, and not in some theoretical cloud, and then undertake to do what we must to make the application start responding at acceptable levels again, <strong>even if it’s no longer “pure.”</strong></li>
+</ul>
+</blockquote>
+
+<p>It&#8217;s now obvious that we have <strong>mistakenly</strong> learned over the years that <strong>a relational database is a one-size-fits-all solution</strong>.</p>
+
+<blockquote><p>Because of some of the <strong>inherent design decisions in RDBMS</strong>, it is not always as easy to scale as some other, more recent possibilities that take the structure of the Web into consideration. But it’s not only the structure of the Web we need to consider, but also its phenomenal growth, because as more and more data becomes available, <strong>we need architectures that allow our organizations to take advantage of this data in near-time to support decision making and to offer new and more powerful features and capabilities to our customers</strong>.</p></blockquote>
+
+<p>Let&#8217;s look at some statistics:</p>
+
+<blockquote><ul>
+<li>YouTube serves 100 million videos every day.</li>
+<li>Chevron accumulates 2TB of data every day.</li>
+<li>In 2006, the amount of data on the Internet was approximately 166 exabytes (166EB). In 2010, that number reached nearly 1,000 exabytes. An exabyte is one quintillion bytes, or 1.1 million terabytes. To put this statistic in perspective, 1EB is roughly the equivalent of 50,000 years of DVD-quality video. 166EB is approximately three million times the amount of information contained in all the books ever written.</li>
+<li>Wal-Mart’s database of customer transactions is reputed to have stored 110 terabytes in 2000, recording tens of millions of transactions per day. By 2004, it had grown to half a petabyte.</li>
+<li><strong>The movie Avatar required 1PB storage space</strong>, or the equivalent of a single MP3 song—if that MP3 were 32 years long (source: <a href="http://bit.ly/736XCz">http://bit.ly/736XCz</a>).</li>
+<li>As of May 2010, Google was provisioning 100,000 Android phones every day, all of which have Internet access as a foundational service.</li>
+<li>In 1998, the number of email accounts was approximately 253 million. By 2010, that number is closer to 2 billion.</li>
+</ul>
+</blockquote>
+
+<p>Considering the now we faced &#8220;Web Scale&#8221; problem, here is a piece of interesting historical story:</p>
+
+<blockquote><p>It has been said, though it is hard to verify, that the 17th-century English poet <strong>John Milton</strong> had actually <strong>read every published book on the face of the earth</strong>. Milton knew many languages (he was even learning Navajo at the time of his death), and given that the total number of published books at that time was in the thousands, this would have been possible. The size of the world’s data stores have grown somewhat since then.</p></blockquote>
+
+<p><strong>In a world now working at web scale and looking to the future, NoSQL is a great tool at hand for us developers to tackle the scaling problem.</strong></p>
+
+<p>Apache Cassandra might be one part of the answer.</p>
+
+<p>But also we must be aware of the <strong>NoSQL-ALL-THE-THINGS</strong> attempts:</p>
+
+<blockquote><p>If massive, elastic scalability is not an issue, the trade-offs in relative complexity of a system such as Cassandra may simply not be worth it.</p></blockquote>
+
+<h2>The Cassandra Elevator Pitch</h2>
+
+<p>This is a summary of what Cassandra is all about. Since I am not familiar with it (yet), it&#8217;s basically just quotes from the book.</p>
+
+<h3>Cassandra in 50 Words or Less</h3>
+
+<blockquote><p><strong>Apache Cassandra is an open source, distributed, decentralized, elastically scalable, highly available, fault-tolerant, tuneably consistent, column-oriented database that bases its distribution design on Amazon’s Dynamo and its data model on Google’s Bigtable. Created at Facebook, it is now used at some of the most popular sites on the Web.</strong></p></blockquote>
+
+<h3>Distrubuted and Decentrailized</h3>
+
+<blockquote><p>… Cassandra is distributed, which means that it is capable of running on multiple machines while appearing to users as a unified whole. <strong>In fact, there is little point in running a single Cassandra node.</strong></p>
+
+<p>… You can <strong>confidently write data to anywhere in the cluster</strong> and Cassandra will get it.</p>
+
+<p>Once you start to scale many other data stores (MySQL, Bigtable), some nodes need to be set up as masters in order to organize other nodes, which are set up as slaves. Cassandra, however, is decentralized, meaning that every node is identical; no Cassandra node performs certain organizing operations distinct from any other node. <strong>Instead, Cassandra features a peer-to-peer protocol and uses gossip to maintain and keep in sync a list of nodes that are alive or dead.</strong></p>
+
+<p>In many distributed data solutions (such as RDBMS clusters), you set up multiple copies of data on different servers in a process called replication, which copies the data to multiple machines so that they can all serve simultaneous requests and improve performance. <strong>Typically this process is not decentralized as in Cassandra, but is rather performed by defining a master/slave relationship.</strong></p>
+
+<p>… <strong>The decentralized design is therefore one of the keys to Cassandra’s high availability</strong>. Note that while we frequently understand master/slave replication in the RDBMS world, <strong>there are NoSQL databases such as MongoDB that follow the master/slave scheme as well.</strong></p></blockquote>
+
+<h3>Elastic Scalability</h3>
+
+<blockquote><p><strong>Scalability is an architectural feature of a system that can continue serving a greater number of requests with little degradation in performance.</strong></p>
+
+<p>Elastic scalability refers to a special property of horizontal scalability. It means that your cluster can seamlessly scale up and scale back down. … You don’t have to restart your process. You don’t have to change your application queries. You don’t have to manually rebalance the data yourself. <strong>Just add another machine—Cassandra will find it and start sending it work.</strong></p></blockquote>
+
+<h3>Tuneable Consistency</h3>
+
+<p><strong>Consistency essentially means that a read always returns the most recently written value.</strong></p>
+
+<blockquote><p>… scaling data stores means making certain trade-offs between <strong>data consistency</strong>, <strong>node availability</strong>, and <strong>partition tolerance</strong>.</p></blockquote>
+
+<p><strong>Cassandra is frequently called “eventually consistent”.</strong></p>
+
+<blockquote><p>Eventual consistency means on the surface that all updates will propagate throughout all of the replicas in a distributed system, but that this may take some time. Eventually, all replicas will be consistent.</p></blockquote>
+
+<p>When considering consistency, availability, and partition tolerance, we can achieve <strong>only two of these goals</strong> in a given distributed system (See <strong>CAP Theorem</strong> later in this article). At the center of the problem is data update replication. To achieve a strict consistency, all update operations will be performed synchronously, meaning that they must block, locking all replicas until the operation is complete, and forcing competing clients to wait. A side effect of such a design is that during a failure, some of the data will be entirely unavailable. <strong>As Amazon CTO Werner Vogels puts it, “rather than dealing with the uncertainty of the correctness of an answer, the data is made unavailable until it is absolutely certain that it is correct”</strong> (&#8220;Dynamo: Amazon’s Highly Distributed Key-Value Store” :<a href="http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html">http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html</a>)</p>
+
+<p>We could alternatively take an optimistic approach to replication, propagating updates to all replicas in the background in order to avoid blowing up on the client. <strong>The difficulty this approach presents is that now we are forced into the situation of detecting and resolving conflicts.</strong> A design approach must decide whether to resolve these conflicts at one of two possible times: during reads or during writes. <strong>That is, a distributed database designer must choose to make the system either always readable or always writable.</strong></p>
+
+<p><strong>Dynamo and Cassandra choose to be always writable</strong>, opting to defer the complexity of reconciliation to read operations, and realize tremendous performance gains. The alternative is to reject updates amidst network and server failures.</p>
+
+<blockquote><p><strong>In Cassandra, consistency is not an all-or-nothing proposition, so we might more accurately term it “tuneable consistency” because the client can control the number of replicas to block on for all updates.</strong> This is done by setting the <em>consistency level</em> against the <em>replication factor</em>.</p>
+
+<p>The <strong>replication factor</strong> lets you decide how much you want to pay in performance to gain more consistency. <strong>You set the replication factor to the number of nodes in the cluster you want the updates to propagate to</strong> (remember that an update means any add, update, or delete operation).</p>
+
+<p>The <strong>consistency level</strong> is <strong>a setting that clients must specify on every operation</strong> and that allows you to decide how many replicas in the cluster must <strong>acknowledge a write operation</strong> or <strong>respond to a read operation</strong> in order to be considered successful. <strong>That’s the part where Cassandra has pushed the decision for determining consistency out to the client.</strong></p>
+
+<p>So if you like, you could <strong>set the consistency level to a number equal to the replication factor</strong>, and <strong>gain stronger consistency at the cost of synchronous blocking operations that wait for all nodes to be updated and declare success before returning</strong>. This is not often done in practice with Cassandra, however, for reasons that should be clear (it defeats the availability goal, would impact performance, and generally goes against the grain of why you’d want to use Cassandra in the first place). <strong>So if the client sets the consistency level to a value less than the replication factor, the update is considered successful even if some nodes are down.</strong></p></blockquote>
+
+<h3>Brewer’s CAP Theorem</h3>
+
+<blockquote><p>While working at University of California at Berkeley, Eric Brewer posited his CAP theorem in 2000 at the ACM Symposium on the Principles of Distributed Computing. The theorem states that within a large-scale distributed data system, there are three requirements that have a relationship of sliding dependency: <strong>Consistency</strong>, <strong>Availability</strong>, and <strong>Partition Tolerance</strong>.</p>
+
+<p><strong>Consistency</strong></p>
+
+<p>All database clients will read the same value for the same query, even given concurrent updates.</p>
+
+<p><strong>Availability</strong></p>
+
+<p>All database clients will always be able to read and write data.</p>
+
+<p><strong>Partition Tolerance</strong></p>
+
+<p>The database can be split into multiple machines; it can continue functioning in the face of network segmentation breaks.</p></blockquote>
+
+<p>Brewer’s theorem is that in any given system, you can strongly support only two of the three. <strong>This is analogous to the saying you may have heard in software development: “You can have it good, you can have it fast, you can have it cheap: pick two.”</strong></p>
+
+<p>The CAP theorem was formally proved to be true by Seth Gilbert and Nancy Lynch of MIT in 2002. In distributed systems, however, it is very likely that you will have network partitioning, and that at some point, machines will fail and cause others to become unreachable. Packet loss, too, is nearly inevitable. <strong>This leads us to the conclusion that a distributed system must do its best to continue operating in the face of network partitions (to be Partition-Tolerant), leaving us with only two real options to choose from: Availability and Consistency.</strong></p>
+
+<p><strong>Where different databases appear on the CAP continuum</strong></p>
+
+<p><img src="http://forresty.com/images/CAP-databases.png" alt="Where different databases appear on the CAP continuum" /></p>
+
+<blockquote><p><strong>In this depiction, relational databases are on the line between Consistency and Availability, which means that they can fail in the event of a network failure (including a cable breaking).</strong> This is typically achieved by defining a single master server, which could itself go down, or an array of servers that simply don’t have sufficient mechanisms built in to continue functioning in the case of network partitions.</p></blockquote>
+
+<p>What does it mean in practical terms to support only two of the three facets of CAP?</p>
+
+<blockquote><p><strong>CA</strong></p>
+
+<p><strong>To primarily support Consistency and Availability means that you’re likely using two-phase commit for distributed transactions.</strong> It means that the system will block when a network partition occurs, so it may be that your system is limited to a single data center cluster in an attempt to mitigate this. If your application needs only this level of scale, this is easy to manage and allows you to rely on familiar, simple structures.</p>
+
+<p><strong>CP</strong></p>
+
+<p>To primarily support Consistency and Partition Tolerance, you may try to advance your architecture by setting up data shards in order to scale. Your data will be consistent, <strong>but you still run the risk of some data becoming unavailable if nodes fail.</strong></p>
+
+<p><strong>AP</strong></p>
+
+<p>To primarily support Availability and Partition Tolerance, your system <strong>may return inaccurate data</strong>, but the system will <strong>always be available</strong>, even in the face of network partitioning. <strong>DNS is perhaps the most popular example of a system that is massively scalable, highly available, and partition-tolerant.</strong></p></blockquote>
+
+<h3>Row-Oriented</h3>
+
+<blockquote><p>… although it’s not wrong to say that Cassandra is columnar or column-oriented, it might be more helpful to think of it as an indexed, row-oriented store.</p></blockquote>
+
+<p><strong>Cassandra stores data in what can be thought of for now as a multidimensional hash table.</strong> That means you don’t have to decide ahead of time precisely what your data structure must look like, or what fields your records will need. This can be useful if you’re in startup mode and are adding or changing features with some frequency. It is also attractive if you need to support an Agile development methodology and aren’t free to take months for up-front analysis.</p>
+
+<blockquote><p>… Cassandra requires a shift in how you think about data. Instead of designing a pristine data model and then designing queries around the model as in RDBMS, <strong>you are free to think of your queries first, and then provide the data that answers them</strong>.</p></blockquote>
+
+<h3>Schema-Free</h3>
+
+<p><strong>Cassandra requires you to define an outer container, called a keyspace, that contains column families.</strong> The keyspace is essentially just a logical namespace to hold column families and certain configuration properties. The column families are names for associated data and a sort order. <strong>Beyond that, the data tables are sparse, so you can just start adding data to it, using the columns that you want; there’s no need to define your columns ahead of time.</strong> Instead of modeling data up front using expensive data modeling tools and then writing queries with complex join statements, Cassandra asks you to model the queries you want, and then provide the data around them.</p>
+
+<h2>Use Cases for Cassandra</h2>
+
+<ul>
+<li>Large Deployments</li>
+<li>Lots of Writes, Statistics, and Analysis</li>
+<li>Geographical Distribution</li>
+<li>Evolving Applications</li>
+</ul>
+
+
+<h2>Who is Using Cassandra?</h2>
+
+<ul>
+<li><strong>Twitter</strong> is using Cassandra for analytics. In a much-publicized blog post (at <a href="http://engineering.twitter.com/2010/07/cassandra-at-twitter-today.html">http://engineering.twitter.com/2010/07/cassandra-at-twitter-today.html</a>, Twitter’s primary Cassandra engineer, Ryan King, explained that <strong>Twitter had decided against using Cassandra as its primary store for tweets</strong>, as originally planned, but would instead use it in production for several different things: for real-time analytics, for geolocation and places of interest data, and for data mining over the entire user store.</li>
+<li>Mahalo uses it for its primary near-time data store.</li>
+<li><strong>Facebook</strong> still uses it for inbox search, though they are using a proprietary fork.</li>
+<li>Digg uses it for its primary near-time data store.</li>
+<li>Rackspace uses it for its cloud service, monitoring, and logging.</li>
+<li><strong>Reddit</strong> uses it as a persistent cache.</li>
+<li>Cloudkick uses it for monitoring statistics and analytics.</li>
+<li>Ooyala uses it to store and serve near real-time video analytics data.</li>
+<li>SimpleGeo uses it as the main data store for its real-time location infrastructure.</li>
+<li>Onespot uses it for a subset of its main data store.</li>
+</ul>
+
+
+<h2>Interesting Quotes from Book</h2>
+
+<p>If at first the idea is not absurd, then there is no hope for it. &#8211; Albert Einstein</p>
+
+<p>If I had asked people what they wanted, they would have said faster horses. &#8211; Henry Ford</p>
+
+<p>If you can’t split it, you can’t scale it. &#8211; Randy Shoup, Distinguished Architect, eBay</p>
+
+<p>An invention has to make sense in the world in which it is finished, not the world in which it is started. &#8211; Ray Kurzweil</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[You may win a battle, but you've lost a war]]></title>
+    <link href="http://forresty.com/blog/2012/07/15/you-have-lost-a-war/"/>
+    <updated>2012-07-15T04:09:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/07/15/you-have-lost-a-war</id>
+    <content type="html"><![CDATA[<p>对豆瓣上空军一号<a href="http://movie.douban.com/review/1009222/">这篇影评</a>的分析，已经在豆瓣上作为评论回复给原作者 ：D</p>
+
+<hr />
+
+<p>颇有气势的标题，足够吸引眼球。</p>
+
+<p>开头第一段开门见山地立论，较有气势。</p>
+
+<p>全文 1238 字，从第二段开始到「但同时又多象一个神话啊！ 」作者用了 700 字添油加醋地复述了一遍影片剧情，其中多次使用排比和反问的句式反复煽动读者的情绪，并在正式阐述自己看法之前用一连串的感叹号把情绪推到高潮。</p>
+
+<p>接下来的 502 字作者终于开始阐述自己的观点。主要观点无非是美国利用自己的力量强行推广自己的意识形态，导致战乱四起，流血冲突不断。美国有罪。</p>
+
+<p>如果作者仅仅想表达美国不是那么完美无瑕的就算了，这点当然是对的。人是不完美的，用来规范人类行为的制度当然也不可能是完美的。但是接下来这段话露馅了：</p>
+
+<p>「但我完全不解的是，我们这样一个有如此深厚底蕴和浓烈意识形态色彩的国家，怎么会有相当一批精英分子长年追随这些不着四六的东西？怎么会人云亦云地重复骗子自己都不信的几个概念？怎么会以做“一夜美国人”为豪？ 」</p>
+
+<p>朋友啊，你不解不代表别人不解，你不信不代表别人不信。你不解又不赶紧想办法解，却在这里长篇大论，这种公众场合大声放屁的行为无论如何都让人不爽。</p>
+
+<p>何况你的屁又响又臭。</p>
+
+<p>「深厚底蕴和浓烈意识形态色彩」是最不值钱的东西，爱国主义是最好的避难所。正是有这些盲目的激情，缺乏教育的广大民众容易被别有用心的一小撮人所操纵，以达到这些人不可告人的目的。帝国主义，军国主义，纳粹都是这么出来的。</p>
+
+<p>我们更需要的不是像你这样的煽动情绪的技巧，而是理性地去认识别人的优点和过人之处，去了解我们近代这几百年来到底是怎么输掉的。这也就是你不了解的「怎么会有相当一批精英分子长年追随这些不着四六的东西」。</p>
+
+<p>只能说你的煽动性技巧不错。最好玩的是你在倒数第二段说道：</p>
+
+<p>「辞藻华丽的枪稿可能还会继续蒙蔽一部分人，但是会有越来越多的人跳过枪稿，阅读正文。」</p>
+
+<p>咦，你是在说自己辞藻华丽么？：D</p>
+
+<p>我实在是很好奇你这样的写作手法是不是有门派有套路的。标题、开头和前半部分都很有气势，让部分容易激动的读者血冲脑门，于是在阅读下半部分最关键的论点部分时就容易不用心推敲从而对作者的观点唯唯诺诺点头称是。</p>
+
+<p>你站在那一边，选择这样的角度写下了这样的一篇文章，就已经输了。You may win a battle, but you&#8217;ve lost a war.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[what I learnt from A Song of Ice and Fire]]></title>
+    <link href="http://forresty.com/blog/2012/07/15/what-i-learnt-from-a-song-of-ice-and-fire/"/>
+    <updated>2012-07-15T01:19:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/07/15/what-i-learnt-from-a-song-of-ice-and-fire</id>
+    <content type="html"><![CDATA[<p>These are mostly based on the third book <em>A Storm of Swords</em> of the series. I just finished this book, and want to write my thoughts down while they are still fresh.</p>
+
+<p>I think by far this is the greatest book in the series, and according to user comments and ratings on amazon.com, the next two books seem to be not as good, rendering it probably the best among the five already published.</p>
+
+<p>In general, in my opinion A Song of Ice and Fire is an incredibly well written fantasy series, much better than The Lord of the Rings or the Dragonlance Chronicles Trilogy. I would give it a solid five-star.</p>
+
+<p>What is so wonderful about this series is that it feels so real. Since my English sucks I would simply quote Wikipedia:</p>
+
+<p><em>&#8230;Martin deliberately defied the conventions of the fantasy genre. The series received praise for its realism; it subdues magic in favor of battles and political intrigue. Violence, sexuality and moral ambiguity are frequently displayed among a set of over a thousand named characters. Major characters are repeatedly killed off so that readers cannot rely on the supposed heroes to remain safe and sound. The multiple viewpoint structure allows characters to be explored from many sides so that the supposed villains can provide their viewpoint.</em></p>
+
+<p><em>&#8230;However, before starting with the Ice and Fire series, Martin felt that many Tolkien imitators were writing &#8220;Disneyland Middle Ages&#8221; fantasy without grasping the true brutality of those times. Historical fiction appeared much grittier and realistic to him, fascinating him with the dramatic possibilities of the medieval contrasts such as chivalry co-existing with the brutality of war and ostentatious castles surrounded by hovels. However, where historic fiction leaves versed readers with knowing the historic outcome, original characters may increase suspense and empathy for the readers. Thus, Martin wanted to combine the realism of historical fiction with the magic appeal of the best fantasies, subduing magic in favor of battles and political intrigue.</em></p>
+
+<p>If you haven&#8217;t read this series or don&#8217;t have time to, maybe you can consider watching the HBO show <em>Game of Thrones</em>.</p>
+
+<h2>What I learnt from the characters:</h2>
+
+<h3>Tyrion Lannister:</h3>
+
+<p>Never forget who you are, never forget your weakness. Your enemies will use your weaknesses against you, be prepared for that.</p>
+
+<p>Having a clear understanding of your strengths and weaknesses makes you wiser too.</p>
+
+<h3>Jaime Lannister:</h3>
+
+<p>Courage. Fear is useless and it makes you weaker. No mather what happens, stay strong.</p>
+
+<h3>Jon Snow:</h3>
+
+<p>Do what you have to do and do it well. People will look up to you and follow you if you prove yourself truly reliable.</p>
+
+<h3>Arya Stark:</h3>
+
+<p>A girl with wisdom, courage and determination is deadly charming. 100 times out of 100 I will prefer you over the much more beautiful Sansa Stark.</p>
+
+<h3>Davos Seaworth:</h3>
+
+<p>This practical man gave me a lesson when he started to learn to read and write after becoming the hand of Stannis Baratheon. He said that, and reminds me that the best way of learning new things is learning by doing. He knocked me out of the illusion that I am learning in a fast pace merely by consuming up a lot of materials.</p>
+
+<p>No, I wasn&#8217;t. So now I am trying to be a content producer while staying a ruthless content consumer. Constantly forcing myself to write something down helps me to refine my thoughts and foster understanding.</p>
+
+<h3>Sansa Stark:</h3>
+
+<p>People hate stupid woman.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[银幕上的两小时，历史上的十三天]]></title>
+    <link href="http://forresty.com/blog/2012/07/05/thirteen-days-in-145-minutes-translation/"/>
+    <updated>2012-07-05T17:00:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/07/05/thirteen-days-in-145-minutes-translation</id>
+    <content type="html"><![CDATA[<p>翻译自 <a href="http://prospect.org/article/thirteen-days-145-minutes">Thirteen Days in 145 Minutes</a></p>
+
+<p>原作者 Ernest May</p>
+
+<p><strong>未</strong>获得翻译许可</p>
+
+<hr />
+
+<p>当我了解到 Thirteen Days 这部讲述 1962 年古巴导弹危机的电影将主要通过由著名影星 Kevin Costner 扮演的肯尼迪特别助理 Kenneth O&#8217;Donnell 的视角来叙事的时候，我曾经心怀疑虑。因为在 1997 年，我在维吉尼亚大学的 Philip Zelikow 的帮助下将肯尼迪总统秘密录制的录音带转录和编辑成文本形式的时候就已经发现，不管是在这些录音带里，还是在其他相关的文档中，又或者是在肯尼迪当时的其他智囊的回忆里，都没有证据证明 O&#8217;Donnell 在这次危机中扮演了一个重要的哪怕是起眼的角色。</p>
+
+<p>在哈佛大学出版社将我们的转录稿以 <em>The Kennedy Tapes: Inside the White House During the Cuban Missile Crisis</em> 的名字出版成书之后，Beacon Communications 公司购买了该书的电影版权，并且电影的导演 Roger Donaldson 专程跑到剑桥来见了我们。我们聊了很久，之后 Beacon 公司给我送来了一份由 David Self 写的电影剧本。我担心我将在剧本中读到的是「Kenny O&#8217;Donnell 拯救了世界」。</p>
+
+<p>然而事实并不是如同我想象的那样：剧本中 O&#8217;Donnell 只有一两次说了他本不应该说的话，或者做了他原本不会做的事情。O&#8217;Donnell 一向是约翰·肯尼迪和罗伯特·肯尼迪的好友，并且那些录音带的确证明了他参加了部分有关本次危机的会议。在一次会议中，他提出了一个重要的问题，这个问题随后被肯尼迪总统不断地重复提出：如果美国海军舰队在海上遇到了苏联的潜艇应该怎么办？在另一次会议里，在与国防部长罗伯特·麦克纳马拉的针锋相对中，O&#8217;Donnell 表现出了对李曼·雷姆尼泽将军的鄙夷。</p>
+
+<p>在这里电影制片人做的更像是 Simon Schama 所著的 <em>Dead Certainties</em> （一本将一桩十八世纪谋杀案的一系列历史史实串联起来并加以修饰而写成的小说） 那样的推想历史小说（speculative historical fiction），而不是 Edmund Morris 的 <em>Dutch</em> （Morris 把自己作为一个虚构的角色插入到这本里根总统的传记中）那样的幻想历史小说。</p>
+
+<p>但是，我们仍然要问，为什么要以 O&#8217;Donnell 的视角为主线呢？当我思考制片人还可能有其他的什么方式来让大众能够成功地欣赏这部电影，而不是仅仅满足 PBS 纪录片那样的小众市场的时候，Henry James 提出的对所有事件保持单一视角的原则让我茅塞顿开。然而采用肯尼迪总统的视角是很难的；而如果采用肯尼迪的任一个智囊──麦克纳马拉，国务卿迪安·腊斯克，国家安全顾问 McGeorge Bundy，白宫顾问泰德·索伦森，联合国大使阿德莱·史蒂文森，或者其他任何人──这部电影都很容易把约翰·肯尼迪描绘成「那个拯救世界的人」。O&#8217;Donnell 是一个合理的选择，因为他恰恰是一个处在能够接触到足够多的信息，但又不是一个有自己的政策倾向的人，甚至并不是处理这类突发事件的专家；他更像我们每一个普通人，用普通市民的思维方式去对整个危机的走向做出判断。</p>
+
+<p>有两种欣赏这部电影的方式：一种是把它当作惊悚片，另一种是把它当作历史片。我认为，这部电影是一部成功的惊悚片。导演 Donaldson 和主演 Kevin Costner 在另一部惊悚片 No Way Out 里有较为成功的合作，而这部电影比起 No Way Out 有过之而无不及。我的电影原著合著者 Zelikow 的 13 岁大的女儿在和我们一起看这部电影的时候，自始自终都保持高度紧张，电影结束时大声对我们说：“我要读你们的书！”</p>
+
+<p>难怪哈佛大学出版社会把我们的书背面换成 Thirteen Days 这部电影的海报。电影的版权费是一次性付清的，我们并没有对票房提成，所以不管电影成功与否理论上来说我和出版社的收入将不受影响──除非电影促进了我的书的销量，而这正是为什么出版社想要更换书背的原因。</p>
+
+<p>但是这部电影完整地记录了历史么？我认为它没有达到十分严谨的程度。这部电影未能精确展现许多历史细节和若干个重要因素。在多数情况下，这些不实仅仅是尝试把十三天中发生的许多跌宕起伏的事件缩短到两个小时之内而做出的妥协而已。然而在两个方面，这部电影严重扭曲了史实。</p>
+
+<p>首先，除了罗伯特·肯尼迪之外，肯尼迪总统的其他顾问在电影中的形象塑造均不成功，并且也没能和他们在现实生活中的真实形象达成一致。国家安全顾问 McGeorge Bundy 是最明显的例子。在现实生活中，他是一个不亚于肯尼迪总统的睿智的人，然而在电影里他却是一个胆小紧张的窝囊废。国防部长麦克纳马拉和肯尼迪的顾问迪安·艾奇逊只是通过他们的造型给我们留下了一些印象。</p>
+
+<p>其次，这部电影对军方人员的刻画有误导观众的嫌疑。的确，当时总统和军方之间存在着极大的压力，军方高层一致地强硬地认为应该轰炸且立即入侵古巴，并且他们尝试劝阻肯尼迪总统的推迟军事行动时间，采用封锁和使用秘密外交手段迫使苏联总书记赫鲁晓夫将导弹撤离古巴的计划。但是电影中所描述的却是军方试图迫使肯尼迪总统无所选择只能接受他们的方案。这不仅仅是对军方人士的不公，也是对美国军人的职业信仰的错误理解。</p>
+
+<p>关于这部电影还有其他一些合理的疑问，比如没有任何一个场景是设置在哈瓦那或者莫斯科的。电影里也没有尝试说明赫鲁晓夫决定偷偷将导弹运往古巴，以及最后选择撤出的具体原因。除了 O&#8217;Donnell 在苏联大使馆里看到的受到惊吓的年轻苏联女共产党员之外，影片中出场的苏联人只有外交官和克格勃的与美方打交道的工作人员。同样地，影片中正式出场的美国普通民众也仅有 O&#8217;Donnell 的妻儿，他们表现出来的焦虑不安将代表全体美国人对这次危机的整体感受。我个人的判断是这些取舍未必是不恰当的：克里姆林宫的场景会让观众分心，并且会引出一些这部电影无法正面回答的问题。但是其他人可能会认为这些缺失让这部电影缺乏真实感。</p>
+
+<p>对我个人而言，这部电影对历史的不够忠实在它对这次导弹危机的三个核心要素的正确表现面前显得不是那么重要了。第一要点是，这次危机是一次关乎人类生死存亡的一个关键时刻。这部电影成功地向观众传达了这是人类离灭绝最近的时刻这样的信息，表达效果超过所有的相关纪录片和先前的相同题材电影。它精确地重现了秘密录音带上的克制却十分激烈的辩论，并且穿插十分真实的古巴丛林中处于急促修建状态下的导弹基地及 U2 侦察机对它们的低空掠过，美军的轰炸机、航空母舰和准备发射的导弹。知道这是真实历史事件的观众在离开电影院的时候将对冷战可能带来的后果有更加具体和深刻的体会。</p>
+
+<p>其次，Thirteen Days 这部电影与其他历史资料相比更容易让我们理解肯尼迪总统在当时面临的困境。美国人在书写历史的时候喜欢带着唯我主义色彩，仿佛所有的好和所有的坏都产自美国。因此，许多历史著作甚至回忆录都认为危机始于美国政府对古巴卡斯特罗政权的敌意，或者源自于肯尼迪兄弟的铁腕强权，于是导出这次危机本可以很容易地通过对古巴的怀柔政策，或者软化肯尼迪政府的外交手段，或者接受苏联在古巴部署导弹以作为北约在土耳其和意大利部署的导弹的制衡措施这样的方式来化解这样的错误结论。</p>
+
+<p>这部电影真实地重现了录音带中所表明的事实：这次危机与古巴的关系其实不大，而与肯尼迪所接手的保护两百五十万西德人民的承诺更为密切相关。肯尼迪没有理由相信 1961 年建立起来的柏林墙成功地消除了东面的共产党政权对把西德人民都投入他们已经人满为患的监狱的这一想法的热切渴望。恰恰相反：柏林墙本身正是东德政权和他们背后的苏联政府已经逐渐失去耐心的众多证据之一。赫鲁晓夫曾明确地警告过肯尼迪，他有意于 1962 年晚些时候解决柏林问题。</p>
+
+<p>西德人民唯一的安全保障就是一旦苏联入侵，美国将使用核武器进行反击。任何降低这一威慑可信度的事情都可能迫使美国总统放弃西德或者引发全球范围的核战争。这就是为什么肯尼迪绝对不愿意在古巴导弹这件事情上做任何的让步。这部电影非常精准地体现了这一点，而这是许多历史文献所未能做到的。</p>
+
+<p>最后，这部电影成功地表明了美国总统需要拥有非常高的智商和在关键时刻能够保持冷静的头脑。多年以来，电影总是把总统和他的决策圈描绘成微不足道的角色，或者把白宫当成一个被邪恶和秘密组织包围的孱弱的机构。Bruce Greenwood 在这部电影中对总统这个角色的诠释──不是一个卡美洛骑士，而是一个意识到自己的工作难度非常之大，并且他所说和所做的一切事情都可能产生非常巨大的影响。Thirteen days 这部电影表明了由谁当总统是一件非常严肃和重要的事情。</p>
+
+<p>这部电影不能代表完全真实的历史。任何观看这部电影的人都不应该相信自己在银幕上看到的都是真实发生过的。但是这部电影足够地贴近历史，因此如果它在票房和随后的影碟市场上取得了巨大的成功我绝对不会觉得不满，因为有了它，美国和全世界的年轻人将会知道，他们所看到的很可能是有史以来人类最接近灭亡的时刻。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[用重辣，只是因为食材太差]]></title>
+    <link href="http://forresty.com/blog/2012/07/05/on-black-mirror/"/>
+    <updated>2012-07-05T02:45:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/07/05/on-black-mirror</id>
+    <content type="html"><![CDATA[<p><strong>剧透警告</strong></p>
+
+<p><em>Black Mirror 第一季观后感</em></p>
+
+<h2>第一集</h2>
+
+<p>开场几分钟我就看出来导演想让首相和猪性交，随后的剧情发展只是顺势展开而已。对公众、媒体和注意力经济的讽刺难免用力过猛而显得做作。题材蛮好，完全可以拍成一部好电影，但是缩到四十几分钟显然太短，整个故事中的许多重要的方面没有能够表现出来，导致真实感不足。</p>
+
+<p><a href="http://movie.douban.com/review/5340669/">http://movie.douban.com/review/5340669/</a> 这篇评论讲得蛮好，剧中没有坚决不妥协的强硬派，没有人出来呼吁保护儿童避免儿童观看直播，也没有反对党、宗教人士和动物保护组织。是的，时间有限应有取舍，但是舍得太多导致表现力不足。</p>
+
+<p>结尾也不尽如人意。如同撒谎的最好方式不是句句假话，而是九句真话夹带一句假话一样，要表现人性中邪恶和恶心的一面和科技带来的负面影响的最好方式不应该是从头到尾不断地重复负面的内容，而应该是通过时不时地穿插善良和好的一面来提高叙事的可信度。首相从头到位只是一心想着自己的政治生命，最终也完全是因为为了自保而决定上场；首相夫人在事件当天到一年后这段时间内的表现也很难让人理解；首相的决策圈子和媒体人的表现，特别是那个冲到现场对突击行动进行偷拍的女记者的表现都有点表演过度的感觉。</p>
+
+<p>过度脸谱化让它缺乏可信度和真实感。我想我终于对脸谱化这个词有了更深一点的理解，毕竟这个世界绝非非黑即白。</p>
+
+<h2>第二集</h2>
+
+<p>消费主义？这部片子是要讽刺消费主义？这集我看到一半还在猜测到底故事是发生在极权社会里还是在监狱里，又或者是在某个人类已经把自然环境破坏殆尽的未来里。</p>
+
+<p>消费主义至上的社会什么时候有强制广告和强制消费了？比起相信这样的未来，我更愿意相信 Wall-E 里面那样的每个人肥得像猪整天躺着对着屏幕吃东西的未来。</p>
+
+<p>骑单车象征着朝九晚五工作只为了养家户口和 pay the bill 的生活，HOT SHOT 象征着人们对出名和财务自由的向往，这些都很容易理解，但是这样的设定总让我觉得过于牵强因而难以入戏，或许是我太爱逻辑和喜欢吹毛求疵了吧。</p>
+
+<h2>第三集</h2>
+
+<p>对科技的恐惧。</p>
+
+<p>是的，多数人无法完全理解科技，无法全身心地接受科技带来的变化，因此产生恐惧是正常的。</p>
+
+<p>整个人类历史，新的科技发明的出现总是先让人产生排斥和抵制的心理，然后随着时间的流逝才慢慢将其接受，最后完全离不开科技的结晶。“Any sufficiently advanced technology is indistinguishable from magic”，而人类历史上并不缺乏 witch hunt 的记载。地心说的推翻和进化论的提出并没有让人类遭受天谴，允许大众拥有枪支并没有让社会治安变得更差和让政权变得更不稳定，原子能的发现给人类带来了恐怖的冷战但是没有带来灭绝。人类会犯错，但是人类作为一个整体所拥有的智慧是我们任何一个个体所无法轻易揣度的。想要抵制科技，请先重拾钻木取火的技能。</p>
+
+<p>是的，记忆回放设备很好，是一件伟大的发明。但是我不相信人们完全学不会理智地使用这样的设备，不会制定相应的法律和制度，不会产生新的道德约束来适应这样的变化。而如果本集中主角的行为不是在假想的未来中普遍的可能存在的情况的话，那本集就没太多值得拍的价值了。</p>
+
+<p>血管里没有流淌 geek 血液的导演或许和大多数人一样很难真心拥抱科技带来的变化吧。对科技怀有戒心的朋友们我向你们推荐一本书《禅与摩托车维修艺术》，看完之后或许你对科技的看法会有所改善。</p>
+
+<h2>总结</h2>
+
+<p>整部剧集想要讽刺注意力经济和消费主义，然而在许多细节的处理方面过激和有失偏颇却反过来完成了对这两者的推波助澜，不得不说是一种讽刺。如同现在国内到处可见的川菜馆和湘菜馆，和被众人追捧的《三体》系列一样，这部剧集给人入口感觉很好，却缺乏足够的令人回味的空间。细节经不起推敲，对人性和人物的刻画不够深刻，却通过天马行空的想象力和出人意料的剧情设定，全方位地对消费者的感官进行刺激，恰恰是这部剧集高举消费主义大旗的实证，毕竟让消费者买单才是最高优先级的事项，是否耐人寻味，有没有保鲜度，存在不存在艺术价值都只是次要的问题。这样的作品，很难经得起时间的考验。</p>
+
+<p>对一部电视剧要求这么多或许是过分了，毕竟它们都只是资本运作和迎合市场规律的产物。电视剧的受众和消费方式注定了它们或许永远无法达到足够的深度。因此从某种角度来说，把看电视剧的时间花在能够补充自己知识缺口或者能够引发思考的剧集上面或许更加值得。</p>
+
+<p>有人说这是一部白左剧，对此我并不能完全理解，估计得多学习研究才行。我想我还是少看点电影和电视剧，多读点书好了。</p>
+
+<p>用重辣，只是因为食材太差。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[追求幸福的权利]]></title>
+    <link href="http://forresty.com/blog/2012/07/04/the-pursuit-of-happiness/"/>
+    <updated>2012-07-04T04:58:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/07/04/the-pursuit-of-happiness</id>
+    <content type="html"><![CDATA[<p>最近读了不少书，大多数是中文的。</p>
+
+<p>其实我想多读些英文的。无奈自己英文阅读速度的确太慢，理解能力也不足，另外就是中文书实在太便宜。</p>
+
+<p>前些日子曾经发下宏愿，想尽量少读和不读中文书，然而逐渐意识到自己年少无知，因为虽然近年来的外国文学作品的翻译水平逐年下降，但早期的译作和个别译者还是可以信任的；当今华文笔界虽然多数作品纯属破坏生态，但还是有少量佳作。另外，像我这种经典都没读过几本的人，绕过母语直奔原味西学的行为无疑是自我文学修养上的一种大跃进式的尝试。</p>
+
+<p>再者，无论读再多外语，了解再多国外文化，自己身上这二十多年历史终究无法抹去。父母亲人也基本无法成为我们这样的互联网公民。</p>
+
+<p>印刷术发明之前，大多数人类由于书籍太贵而无法识字读书。而今，书已经卖到比猪肉便宜，许多人们却更倾向于看古装穿越剧和在微博上聊八卦和喝鸡汤。人们由于“时间太少”而不读书。</p>
+
+<p>为什么要读书呢？通过读书，古代的统治阶级们比只能通过听书看戏讲故事学习历史和文化的普通大众学到了更多的知识，并且回过头来用这些知识维护自己的统治。而现在在一些国家，统治阶级有钱，有权，有武力，有蒙蔽人民的意图和能力。如果我们不拿知识武装自己，我们拿什么来保护自己呢？我们的安全感又来自哪里？</p>
+
+<p>读书人容易统治不读书的人，不读书的人却很难统治读书人。我们的希望其实并不是那么的渺茫。</p>
+
+<p>我在糗事百科，百度贴吧，天涯等网站上看到了我们国家许多年轻人的母语表达能力的欠缺。流行语的滥用，随处可见的错别字和不规范的标点符号，更不要说这些文字所表现出来的背后作者的思考能力的欠缺。相反，欧美的网民也在网上互相谩骂，但是至少在我看到的多数情况下，他们的语法是通顺的，表意是清晰的，单词拼写错了也总是有人直接指出并用来嘲笑对方。中文互联网的平均文字水平让我目不忍视。</p>
+
+<p>电影的翻译者应该属于比较有文化的一群人了，结果呢？在 Brave 这部电影里我还是看到了“给我一个卖萌的机会”、“山寨魔法”、“人品好”和“亲”这样的台词。不知道这些文艺工作者在将来老了之后，开始回顾自己一生的工作的时候会有什么感想。</p>
+
+<p>Brave 这部电影是 Pixar 近年来拍得比较差的电影之一了，再看去年同样不够出彩的 Cars 2，几乎可以认定 Pixar 已被迪斯尼同化。同质化往往意味着中庸。Outstanding requires standing out.</p>
+
+<p>电影虽然一般，背后的道理却也浅显。我们需要勇气去说不，需要勇气去追求自己的幸福，需要勇气去做出改变，而想要改变别人往往要从改变自己做起。美国《独立宣言》在前言中即写道：凡人生而平等，秉造物者之賜，擁諸無可轉讓之權利，包含生命權、自由權、與追尋幸福之權。</p>
+
+<p>想要的东西，需要自己去争取。</p>
+
+<h3>后记</h3>
+
+<p>开始动手写这篇文章的时候我瞄了一眼屏幕的右上角：我的生命还剩下 1549 天。不，我应该没有得什么绝症。不，我也不是在预言地球或者人类的毁灭。而是， 1549 天之后我将满 30 岁，而到那一天如果我还像现在这样，不知道自己这辈子到底想做哪些事情，不知道我到底想成为什么样的人，那我也差不多可以去死了。</p>
+
+<p>记得那是某个深夜，我看到 Dustin Curtis 的网站 lifepath.me （<a href="http://cargo.dustincurtis.com/screenshots/lifepath_1.png">截图</a>）（在 Facebook 推出 timeline 之后 Dustin Curtis 选择在 eBay 上卖掉这个网站（<a href="http://bit.ly/N75CC5">拍卖地址</a>），刚看了一下，域名已被买主做了重定向）之后深受感触，想起乔布斯在斯坦福的演讲上说过：</p>
+
+<p>&#8220;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.&#8221;</p>
+
+<p>于是当天晚上，我立刻动手，写出了我的第一个 Mac App，在屏幕右上角显示我的生命已经过去了百分之多少，还剩下多少天可以活。虽然很简陋，但是从那以后我一直开着。（代码开源并且放在 <a href="https://github.com/forresty/mortal">https://github.com/forresty/mortal</a>, 欢迎自取）。</p>
+
+<p>我先是把自己的预期寿命设定到 75 岁，然后调整到 60 岁，最后调整到现在的 30 岁。当我意识到自己已经浪费掉太多的时间了，当我假定自己的生命只剩 1500 多天的时候，我对生命有了完全不同的看法。</p>
+
+<p>今晚也是，意识到最近读了很多书，看了很多电影却一点文字都没有写出来，眼看时间一分一秒流逝难免夜不能寐。翻身下床，写下此文。作为影评，本文实在糟糕至极，虽然文笔很差，但我还没放弃成为文人的可能性，所以还是厚着脸皮写下来发出来吧。</p>
+
+<p>我的生命还剩 1549 天。</p>
 ]]></content>
   </entry>
   

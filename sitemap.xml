@@ -1,15 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://forresty.com/blog/2012/01/09/back-to-work/</loc>
-        <lastmod>2012-01-19T15:54:29+08:00</lastmod>
+        <loc>http://forresty.com/blog/2012/07/04/the-pursuit-of-happiness/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/07/05/on-black-mirror/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/07/05/thirteen-days-in-145-minutes-translation/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/07/15/what-i-learnt-from-a-song-of-ice-and-fire/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/07/15/you-have-lost-a-war/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/08/11/cassandra-notes-part-1/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/08/18/yukio-mishima/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://forresty.com/blog/2012/10/15/smoking-and-quitting/</loc>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
     </url>
     <url>
         <loc>http://forresty.com/blog/archives/</loc>
-        <lastmod>2012-01-19T15:54:29+08:00</lastmod>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
     </url>
     <url>
         <loc>http://forresty.com/</loc>
-        <lastmod>2012-01-19T15:54:29+08:00</lastmod>
+        <lastmod>2012-10-16T00:17:28+08:00</lastmod>
     </url>
 </urlset>
