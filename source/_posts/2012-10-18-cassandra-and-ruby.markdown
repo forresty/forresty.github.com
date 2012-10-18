@@ -28,7 +28,7 @@ Since Cassandra is written in Java, so naturally its Thrift server is implemente
 cassandra gem (from Twitter, in Ruby) --->
 thrift_client gem (Twitter, simply a wrapper around thrift gem, Ruby) --->
 thrift gem (from the Thrift team, part of Thrift source code, Ruby & C) --->
-[the inter-webz, TCP/IP socket] --->
+[TCP/IP or Unix socket, possibly over the inter-webz] --->
 Thrift server (from the Cassandra team, in Java) --->
 Cassandra internal API (Cassandra, Java) --->
 Cassandra (hooray!)
