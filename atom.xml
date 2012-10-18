@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-10-18T11:43:12+08:00</updated>
+  <updated>2012-10-18T11:53:00+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -49,7 +49,7 @@
 </pre></td><td class='code'><pre><code class=''><span class='line'>cassandra gem (from Twitter, in Ruby) ---&gt;
 </span><span class='line'>thrift_client gem (Twitter, simply a wrapper around thrift gem, Ruby) ---&gt;
 </span><span class='line'>thrift gem (from the Thrift team, part of Thrift source code, Ruby & C) ---&gt;
-</span><span class='line'>[the inter-webz, TCP/IP socket] ---&gt;
+</span><span class='line'>[TCP/IP or Unix socket, possibly over the inter-webz] ---&gt;
 </span><span class='line'>Thrift server (from the Cassandra team, in Java) ---&gt;
 </span><span class='line'>Cassandra internal API (Cassandra, Java) ---&gt;
 </span><span class='line'>Cassandra (hooray!)</span></code></pre></td></tr></table></div></figure>
