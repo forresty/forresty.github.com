@@ -13,8 +13,6 @@ I was more of a software product guy, but now I am a freelance programmer.
 
 I currently live in Shanghai, and am planning to move to the United States in the near future.
 
-My email address is afu@forresty.com
-
 ## Habits
 
 - Codes
