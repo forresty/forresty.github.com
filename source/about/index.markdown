@@ -27,6 +27,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Perfectionism
 - Good products
 - Logic and Reason
+- Minimizing government
 - Legalizing marijuana
 - Legalizing gambling
 - Legalizing prostitution
