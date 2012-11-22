@@ -19,8 +19,8 @@ It's said that you can only pick 2 out of the following 3 factors in creating a 
 - Fast
 - Cheap
 
-**I will not allow myself to build bad products**, and since I am not experienced enough so you might expect me to be **cheap**.
+**I will not allow myself to build bad products**, and since I am not very experienced yet so you might expect me to be **not fast enough**.
 
-Mind you, that means the progress **might not be fast.**
+Mind you, that means the my rates **might be cheap.**
 
 Drop me an email at afu@forresty.com so that we can discuss.
