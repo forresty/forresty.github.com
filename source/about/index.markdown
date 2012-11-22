@@ -28,6 +28,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Good products
 - Logic and Reason
 - Legalizing marijuana
+- Legalizing gambling
 - Legalizing prostitution
 - LGBT Rights
 
