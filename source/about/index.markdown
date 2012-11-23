@@ -40,6 +40,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Sushi
 - Hot chocolate
 - Tea
+- Gin
 
 ## Things I hate
 
