@@ -9,7 +9,7 @@ footer: true
 
 I am currently available for hire.
 
-I think I am good at Ruby, but iOS projects are welcome too. **But I am not an experienced programmer yet.**
+I think I am good at Ruby, but iOS projects are welcome too. **But I am not an experienced programmer yet, and I suck at web frontend (for the moment).**
 
 You might want to have a look at [my GitHub profile](https://github.com/forresty).
 
