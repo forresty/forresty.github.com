@@ -5,6 +5,7 @@ date: 2012-11-22 13:46
 comments: true
 sharing: true
 footer: true
+updated: 2012-11-30
 ---
 
 I am currently available for hire.
