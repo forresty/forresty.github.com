@@ -16,8 +16,8 @@ I currently live in Shanghai, and am planning to move to the United States in th
 
 ## Habits
 
-- Codes
-- Books
+- [Codes](https://github.com/forresty)
+- [Books](https://book.douban.com/people/forresty)
 
 ## Things I like or support
 
