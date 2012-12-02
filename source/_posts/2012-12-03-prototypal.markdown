@@ -17,6 +17,7 @@ So I picked up this wonderful little book named _JavaScript: The Good Parts_ by 
 So just now I was trying to understand why the fuck following codes work:
 
 ### Code Sample #1
+
 ```javascript
 Function.prototype.method = function (name, func) {
   this.prototype[name] = func;
@@ -36,6 +37,7 @@ I only have a vague idea about prototype chaining in JavaScript, that's when an 
 The codes above implements a `superior` function which mimics the `super` in OO world on the object prototype thus enables it on ALL objects, thus making following codes possible:
 
 ### Code Sample #2
+
 ```javascript
 var father = function (spec) {
   var that = {};
@@ -89,7 +91,7 @@ typeof Function === function
 // true
 ```
 
-I felt my brain had just exploded. Wow. So I did some experiments:
+I felt my brain had just exploded. Wow. So I did some more experiments:
 
 ```javascript
 // So, following expressions are all truthy:
@@ -98,36 +100,6 @@ typeof Function.prototype === 'function'
 typeof Object === 'function'
 typeof Object.prototype === 'object'
 typeof {} === 'object'
-
-// Sneak peek into Object and Function using Safari (courtesy of my friend @Leaskh):
-Object;
-// function Object() {
-//   [native code]
-// }
-
-Function;
-// function Function() {
-//   [native code]
-// }
-
-Function.__proto__;
-// function() {
-//   [native code]
-// }
-
-Function.prototype;
-// function() {
-//   [native code]
-// }
-
-Object.__proto__;
-// function() {
-//   [native code]
-// }
-
-// This is interesting:
-Object.prototype;
-// Object
 
 // And more fun:
 var obj = {};
@@ -145,23 +117,62 @@ Object.prototype.hello = 'sweetie';
 obj.hello;
 // sweetie
 obj.__proto__;
-// { hello : 'sweetie' }
+// { superior: [Function], hello: 'sweetie' }
 
 func.hello;
 // sweetie
 func.__proto__;
-// [Function: Empty]
+// { [Function: Empty] method: [Function] }
 func.__proto__.__proto__;
-// { hello: 'sweetie' }
+// { superior: [Function], hello: 'sweetie' }
+
+// Sneak peek into Object and Function using Safari (courtesy of my friend @Leaskh):
+Object;
+// function Object() {
+//   [native code]
+// }
+
+Function;
+// function Function() {
+//   [native code]
+// }
+
+// This is interesting:
+Object.prototype;
+// { superior: [Function], hello: 'sweetie' }
+
+// Yes they are all truthy:
+obj.__proto__ === Object.prototype;
+func.__proto__ === Function.prototype;
+func.__proto__.__proto__ === Object.prototype;
 ```
 
-So, per the `this` binding rules, basically, hacking a `method()` function onto `Function.prototype` enables it for all functions including `Object`, and hacking a `superior()` function with invocation of `method()` on `Object` hacks it onto `Object.prototype` thus enables it for all objects.
+So basically, hacking a `method()` function onto `Function.prototype` enables it for all functions including `Object`, and hacking a `superior()` function with invocation of `method()` on `Object` hacks it onto `Object.prototype` thus enables it for all objects.
+
+So, the Code Sample #1 is exactly the same as:
+
+```javascript
+Object.prototype.superior = function (name) {
+  var that = this, method = that[name];
+  return function () {
+    return method.apply(that, arguments);
+  }
+};
+```
+
+Per the `this` binding rules, this line in Sample Code #2
+
+```javascript
+var super_name = that.superior('get_name');
+```
+
+retrieves the `get_name()` function in `that` which carefully protects `that` in its closure and is ready to be called with `arguments`. Neat!
 
 So I think I just figured out some of the most basic ideas about how prototype chaining in JavaScript really works. (Right? Right??)
 
 This reminds me the moment of ecstasy when I first understood Ruby object / class / singleton-class hierarchies. Aha moments like this is one of the reasons why it is so fascinating to be working in this field.
 
-I <3 programming.
+Yes, my brain hurts now and I need to rest. And yes I <3 programming.
 
 TL;DR:
 
