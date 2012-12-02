@@ -168,7 +168,7 @@ var super_name = that.superior('get_name');
 
 retrieves the `get_name()` function in `that` which carefully protects `that` in its closure and is ready to be called with `arguments`. Neat!
 
-So I think I just figured out some of the most basic ideas about how prototype chaining in JavaScript really works. (Right? Right??)
+So I think I just figured out some of the most basic ideas about why JavaScript is called a prototypal language and how its prototype chaining really works. (Right? Right??)
 
 This reminds me the moment of ecstasy when I first understood Ruby object / class / singleton-class hierarchies. Aha moments like this is one of the reasons why it is so fascinating to be working in this field.
 
