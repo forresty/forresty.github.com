@@ -23,7 +23,7 @@ Function.prototype.method = function (name, func) {
   return this;
 };
 
-Object.method('superior', function(name) {
+Object.method('superior', function (name) {
   var that = this, method = that[name];
   return function () {
     return method.apply(that, arguments);
@@ -31,7 +31,9 @@ Object.method('superior', function(name) {
 });
 ```
 
-I only have a vague idea about prototype chaining in JavaScript. The codes above implements a `superior` function which mimics the `super` in OO world on the object prototype thus enables it on ALL objects, thus making following codes possible:
+I only have a vague idea about prototype chaining in JavaScript, that's when an object failed to find a property in itself it will start to look it up in its prototype, and prototype's prototype and then all the way up to the top.
+
+The codes above implements a `superior` function which mimics the `super` in OO world on the object prototype thus enables it on ALL objects, thus making following codes possible:
 
 ### Code Sample #2
 ```javascript
@@ -53,11 +55,11 @@ var son = function (spec) {
 };
 
 var afu = father({name : 'afu'});
-console.log(afu.get_name());
+afu.get_name();
 // afu
 
 var afu_junior = son({name : 'afu'});
-console.log(afu_junior.get_name());
+afu_junior.get_name();
 // proud son of afu
 ```
 
@@ -72,9 +74,9 @@ Function.prototype.method = function (name, func) {
 };
 ```
 
-This part is easy. It defines a `method` function on the function prototype so all functions are benefitted from it. So far so good.
+This part is easy. It defines a `method` function on the function prototype so all functions are benefitted from it, any function calls the `method()` gets its prototype assigned a function as a property. So far so good.
 
-But why `Object.method` works??
+But why `Object.method()` works??
 
 Well, the answer, unlike the stupid poor me, you might already knew, is that the `Object` is a function.
 
@@ -100,13 +102,32 @@ typeof {} === 'object'
 // Sneak peek into Object and Function using Safari (courtesy of my friend @Leaskh):
 Object;
 // function Object() {
-//  [native code]
+//   [native code]
 // }
 
 Function;
 // function Function() {
-//  [native code]
+//   [native code]
 // }
+
+Function.__proto__;
+// function() {
+//   [native code]
+// }
+
+Function.prototype;
+// function() {
+//   [native code]
+// }
+
+Object.__proto__;
+// function() {
+//   [native code]
+// }
+
+// This is interesting:
+Object.prototype;
+// Object
 
 // And more fun:
 var obj = {};
@@ -134,11 +155,13 @@ func.__proto__.__proto__;
 // { hello: 'sweetie' }
 ```
 
-So I just figured out how prototype chaining in JavaScript really works. (Right? Right??)
+So, per the `this` binding rules, basically, hacking a `method()` function onto `Function.prototype` enables it for all functions including `Object`, and hacking a `superior()` function with invocation of `method()` on `Object` hacks it onto `Object.prototype` thus enables it for all objects.
+
+So I think I just figured out some of the most basic ideas about how prototype chaining in JavaScript really works. (Right? Right??)
 
 This reminds me the moment of ecstasy when I first understood Ruby object / class / singleton-class hierarchies. Aha moments like this is one of the reasons why it is so fascinating to be working in this field.
 
-I love programming.
+I <3 programming.
 
 TL;DR:
 
