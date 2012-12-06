@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-12-06T12:59:43+08:00</updated>
+  <updated>2012-12-06T14:53:14+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[INTP]]></title>
+    <link href="http://forresty.com/blog/2012/12/06/intp/"/>
+    <updated>2012-12-06T14:38:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/12/06/intp</id>
+    <content type="html"><![CDATA[<p>Just took another MBTI test, it seems now I am an INTP.</p>
+
+<p>Apparently I&#8217;ve changed a lot since last time (roughly 3~4 years ago) I took the test I was an ENFP. I think it&#8217;s likely that I&#8217;ve had stayed ENFPish till last year or so (while recently I gradually moved from Extraversion to Introversion and Feeling to Thinking).</p>
+
+<p>But I might want myself to be an INTJ, since INTJs are more on the &#8220;doer&#8221; side while INTPs are more on the &#8220;thinker&#8221; side.</p>
+
+<p>So, how can I make myself move towards INTJ?</p>
+
+<p>Maybe keep &#8220;thinking&#8221; how is not the right answer, right? ;)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Introducing dotjs-pow]]></title>
