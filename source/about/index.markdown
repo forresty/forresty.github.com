@@ -12,6 +12,8 @@ Hi, I am Forrest.
 
 I was more of a software product guy, but now I am a freelance programmer.
 
+I was an ENFP (Champion) according to the Myers-Briggs Type Indicator (MBTI), but now I am an INTP (Architect), and might become an INTJ (Mastermind).
+
 I currently live in Shanghai, and am planning to move to the United States in the near future.
 
 ## Habits
