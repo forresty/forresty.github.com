@@ -10,6 +10,8 @@ If you need meditation in order to clear your mind, that's called finding focus 
 
 If you need meditation because you feel a little bit burnt out, that's called resting.
 
+If you need meditation because you don't know what to do, that's called thinking.
+
 If you have work to do but you think you need to meditate, that's called procrastination.
 
 If you fell asleep during meditation, that's called sleeping.
