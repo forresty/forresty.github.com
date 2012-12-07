@@ -5,12 +5,14 @@ date: 2012-11-22 13:46
 comments: true
 sharing: true
 footer: true
-updated: 2012-11-30
+updated: 2012-12-07
 ---
 
 I am currently available for hire.
 
-I think I am good at Ruby, but iOS projects are welcome too. **But I am not an experienced programmer yet, and I suck at web frontend (for the moment).**
+I can drop into your team and start to get things done immediately, or design and build an entire product from scratch.
+
+Ruby / Rails projects are preferred, but iOS projects might be okay as well, depends on whether I like it or not.
 
 You might want to have a look at [my GitHub profile](https://github.com/forresty).
 
@@ -20,6 +22,8 @@ It's said that you can **only pick 2** out of the following 3 factors in creatin
 - Fast
 - Cheap
 
-**I will not allow myself to build bad products**, and since I am not very experienced yet so I am **good and cheap**.
+**I will not allow myself to build bad products**. Life is short, I pick **good and fast**.
+
+Currently my hourly rate starts at $30.
 
 Drop me an email at afu@forresty.com so that we can discuss.
