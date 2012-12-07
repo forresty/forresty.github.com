@@ -16,6 +16,6 @@ If you have work to do but you think you need to meditate, that's called procras
 
 If you fell asleep during meditation, that's called sleeping.
 
-Just stop pretending how sacred it is and start to get things done.
+Steve Jobs practiced meditation, Elon Musk may have done drugs, super heroes in Ayn Rand's books smoke. They might helped, but they are not why those people are successful.
 
-I'd like to be proven wrong though.
+Just stop pretending and start to get things done.
