@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-12-08T13:12:38+08:00</updated>
+  <updated>2012-12-08T14:31:04+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -18,7 +18,7 @@
     <link href="http://forresty.com/blog/2012/12/08/hacker-news/"/>
     <updated>2012-12-08T12:48:00+08:00</updated>
     <id>http://forresty.com/blog/2012/12/08/hacker-news</id>
-    <content type="html"><![CDATA[<blockquote><p>German declared war on Russia. Afternoon swim. - April 2nd, 1914, <em>Franz Kafka&#8217;s Diaries</em></p></blockquote>
+    <content type="html"><![CDATA[<blockquote><p>Germany has declared war on Russia. Swimming in the afternoon. -Franz Kafka&#8217;s diary entry of August 2, 1914</p></blockquote>
 
 <p>When you are seeking to understand the fundamental logics and reasons of this world, sooner or later you&#8217;ll come to realize that daily trivial matters are of no importance at all.</p>
 
@@ -37,6 +37,8 @@
 <p>So I say fuck this shit, I&#8217;d better be hated or laughed at than be ignored.</p>
 
 <p>Come judge me.</p>
+
+<p>UPDATE: corrections on Kafka&#8217;s diary. BTW for a good example of well-written iOS client code, check out Cheddar by Sam Soffes <a href="https://github.com/nothingmagical/cheddar-ios">https://github.com/nothingmagical/cheddar-ios</a></p>
 ]]></content>
   </entry>
   
