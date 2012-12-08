@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 
-> German declared war on Russia. Afternoon swim. - April 2nd, 1914, _Franz Kafka's Diaries_
+> Germany has declared war on Russia. Swimming in the afternoon. -Franz Kafka's diary entry of August 2, 1914
 
 When you are seeking to understand the fundamental logics and reasons of this world, sooner or later you'll come to realize that daily trivial matters are of no importance at all.
 
@@ -25,3 +25,5 @@ I tried to be humble, but this world seems to ignore humble people.
 So I say fuck this shit, I'd better be hated or laughed at than be ignored.
 
 Come judge me.
+
+UPDATE: corrections on Kafka's diary. BTW for a good example of well-written iOS client code, check out Cheddar by Sam Soffes <https://github.com/nothingmagical/cheddar-ios>
