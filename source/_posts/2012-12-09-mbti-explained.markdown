@@ -14,7 +14,7 @@ So basically [MBTI](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) is
 
 There are many free online MBTI tests in languages of your preferences, just Google it yourself. I took several quick ones in both Chinese and English just to make sure the results are consistent.
 
-The MBTI basically categorize people into 16 groups based on 4 sub-types (2^4 == 16, hence the 4 character type name ENFP or INTJ).
+The MBTI basically categorize people into 16 groups based on 4 sub-types (2 ^ 4 == 16, hence the 4 character type name ENFP or INTJ).
 
 Those sub-types are:
 
@@ -45,9 +45,9 @@ Judging and Perception represent the lifestyles you choose. People who prefer pe
 
 I was an ENFP hence I was more of a product manager / program manager type of guy. Oh, and many passionate revolutionaries are of this type.
 
-Since I realized I was not satisfied with that, therefore I changed myself from E to I and from F to T, and now I am a INTP.
+Since I realized I was not satisfied with that, therefore I changed myself from E to I and from F to T, and now I am an INTP.
 
-But by becoming an INTP I find myself in the same group with most scientists and philosophers, but I don't like it as of this moment.
+By becoming an INTP I find myself in the same group with most scientists and philosophers, but I don't like it as of this moment.
 
 Thus I am becoming an INTJ.
 
@@ -59,6 +59,6 @@ MBTI is just a method to group people into sub-groups. Don't take it too serious
 
 After all, there are only 16 groups, and even if you are in the rarest group, or you may prefer, the most elite group, 1% * 6 billion is still a very large number.
 
-And there are still people like me who are well aware of the system and are willing to hack their own minds, and capable of making actions to change their types on demand and have succeeded.
+And there are still people like me who are well aware of the system and are willing to hack their own minds, and are capable of taking actions to change their types on demand and have succeeded.
 
 Take that.
