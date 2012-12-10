@@ -16,7 +16,7 @@ I was an ENFP (Champion) according to the Myers-Briggs Type Indicator (MBTI), bu
 
 I currently live in Shanghai, and am planning to move to the United States in the near future.
 
-## Habits
+## Passions
 
 - [Codes](https://github.com/forresty)
 - [Books](http://book.douban.com/people/forresty)
