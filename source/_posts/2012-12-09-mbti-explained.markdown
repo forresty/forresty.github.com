@@ -51,7 +51,7 @@ By becoming an INTP I find myself in the same group with most scientists and phi
 
 Thus I am becoming an INTJ.
 
-Simply put, I prefer to become more like Elon Musk than Larry Page or Sergey Brin or Einstein.
+Simply put, I prefer to become more like Elon Musk than Larry Page or Sergey Brin or Albert Einstein.
 
 ## Final Notes
 
