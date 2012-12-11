@@ -17,7 +17,7 @@ footer: true
 
 ### less important (getting rid of them)
 
-- iPad 1 Wifi 16G
+- iPad 1 WiFi 16G
 - iMac 27' 2011 (low end, with custom 256G SSD and 16G memory)
 - TimeCapsule 2T
 - AppleTV 2nd Gen
