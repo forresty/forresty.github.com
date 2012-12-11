@@ -50,7 +50,7 @@ footer: true
 - Alfred w/ Powerpack (word definition etc)
 - Things
 - TextMate 2
-- Graphviz w/ TextMate Plugin
+- Graphviz w/ TextMate Bundle
 - Safari
 - 1Password w/ Safari Plugin
 - Spotify
