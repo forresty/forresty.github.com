@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-12-11T19:23:27+08:00</updated>
+  <updated>2012-12-11T22:32:56+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ayi loves you]]></title>
+    <link href="http://forresty.com/blog/2012/12/11/ayi-loves-you/"/>
+    <updated>2012-12-11T17:26:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/12/11/ayi-loves-you</id>
+    <content type="html"><![CDATA[<p>Recently I read a lot of open source code, some of them are really nice, some of them suck.</p>
+
+<p>Since I have my TextMate 2 set up so trailing whitespace and <code>\t</code> in Ruby files are highlighted, every now and then when I stumble upon those patterns, I find myself fixing them locally, and depending on my mood, I might send them a pull request.</p>
+
+<p>Though I have a keyboard shortcut set up in my TextMate so it&#8217;s just a trivial task for each file, but it&#8217;s really annoying to see them coming up again and again, right?</p>
+
+<p>When yesterday my <a href="https://github.com/capistrano/capistrano/pull/319">pull request to capistrano</a> was rejected and was told by this nice guy called Roy Liu, that rather than fixing them file by file, it&#8217;s preferred to do it in batch.</p>
+
+<p>So today I literally went through the entire project, read through the code, trying to understand them while fixing the styles. Oh man it hurts my eyes.</p>
+
+<p>Obviously some tasks are better done using automation. Thus in a hurry I wrote this little <a href="https://github.com/forresty/ayi">ayi gem</a>.</p>
+
+<p>Basically it clean up codes for you, and I intend to make it do this one thing and do it well.</p>
+
+<p>Of course It&#8217;s now still very early in development, but let&#8217;s hope it will become more and more powerful as time goes by.</p>
+
+<p>Go <a href="https://github.com/forresty/ayi">take a look at it</a> if you are interested.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My Stuffs]]></title>
@@ -1352,57 +1377,6 @@
 <p>我实在是很好奇你这样的写作手法是不是有门派有套路的。标题、开头和前半部分都很有气势，让部分容易激动的读者血冲脑门，于是在阅读下半部分最关键的论点部分时就容易不用心推敲从而对作者的观点唯唯诺诺点头称是。</p>
 
 <p>你站在那一边，选择这样的角度写下了这样的一篇文章，就已经输了。You may win a battle, but you&#8217;ve lost a war.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[what I learnt from A Song of Ice and Fire]]></title>
-    <link href="http://forresty.com/blog/2012/07/15/what-i-learnt-from-a-song-of-ice-and-fire/"/>
-    <updated>2012-07-15T01:19:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/07/15/what-i-learnt-from-a-song-of-ice-and-fire</id>
-    <content type="html"><![CDATA[<p>These are mostly based on the third book <em>A Storm of Swords</em> of the series. I just finished this book, and want to write my thoughts down while they are still fresh.</p>
-
-<p>I think by far this is the greatest book in the series, and according to user comments and ratings on amazon.com, the next two books seem to be not as good, rendering it probably the best among the five already published.</p>
-
-<p>In general, in my opinion A Song of Ice and Fire is an incredibly well written fantasy series, much better than The Lord of the Rings or the Dragonlance Chronicles Trilogy. I would give it a solid five-star.</p>
-
-<p>What is so wonderful about this series is that it feels so real. Since my English sucks I would simply quote Wikipedia:</p>
-
-<p><em>&#8230;Martin deliberately defied the conventions of the fantasy genre. The series received praise for its realism; it subdues magic in favor of battles and political intrigue. Violence, sexuality and moral ambiguity are frequently displayed among a set of over a thousand named characters. Major characters are repeatedly killed off so that readers cannot rely on the supposed heroes to remain safe and sound. The multiple viewpoint structure allows characters to be explored from many sides so that the supposed villains can provide their viewpoint.</em></p>
-
-<p><em>&#8230;However, before starting with the Ice and Fire series, Martin felt that many Tolkien imitators were writing &#8220;Disneyland Middle Ages&#8221; fantasy without grasping the true brutality of those times. Historical fiction appeared much grittier and realistic to him, fascinating him with the dramatic possibilities of the medieval contrasts such as chivalry co-existing with the brutality of war and ostentatious castles surrounded by hovels. However, where historic fiction leaves versed readers with knowing the historic outcome, original characters may increase suspense and empathy for the readers. Thus, Martin wanted to combine the realism of historical fiction with the magic appeal of the best fantasies, subduing magic in favor of battles and political intrigue.</em></p>
-
-<p>If you haven&#8217;t read this series or don&#8217;t have time to, maybe you can consider watching the HBO show <em>Game of Thrones</em>.</p>
-
-<h2>What I learnt from the characters:</h2>
-
-<h3>Tyrion Lannister:</h3>
-
-<p>Never forget who you are, never forget your weakness. Your enemies will use your weaknesses against you, be prepared for that.</p>
-
-<p>Having a clear understanding of your strengths and weaknesses makes you wiser too.</p>
-
-<h3>Jaime Lannister:</h3>
-
-<p>Courage. Fear is useless and it makes you weaker. No mather what happens, stay strong.</p>
-
-<h3>Jon Snow:</h3>
-
-<p>Do what you have to do and do it well. People will look up to you and follow you if you prove yourself truly reliable.</p>
-
-<h3>Arya Stark:</h3>
-
-<p>A girl with wisdom, courage and determination is deadly charming. 100 times out of 100 I will prefer you over the much more beautiful Sansa Stark.</p>
-
-<h3>Davos Seaworth:</h3>
-
-<p>This practical man gave me a lesson when he started to learn to read and write after becoming the hand of Stannis Baratheon. He said that, and reminds me that the best way of learning new things is learning by doing. He knocked me out of the illusion that I am learning in a fast pace merely by consuming up a lot of materials.</p>
-
-<p>No, I wasn&#8217;t. So now I am trying to be a content producer while staying a ruthless content consumer. Constantly forcing myself to write something down helps me to refine my thoughts and foster understanding.</p>
-
-<h3>Sansa Stark:</h3>
-
-<p>People hate stupid woman.</p>
 ]]></content>
   </entry>
   
