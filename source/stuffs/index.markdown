@@ -40,7 +40,6 @@ footer: true
 - shotgun
 - pry
 - factory_girl
-- markdown
 - mosh
 
 ## Software
@@ -80,11 +79,11 @@ footer: true
 
 - Google
 - Gmail w/ Custom Domain
-- Linode 512
 - GitHub (5 private repos plan)
 - Audible (platinum membership, 2 credits/month)
 - Spotify Premium
 - Railscasts Pro
+- Linode 512
 - Kindle Store
 - Droplr (image sharing)
 - Dropbox (photo backup)
