@@ -54,3 +54,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Ernest Hemingway
 - Thomas Jefferson
 - George Washington
+
+## Stuffs
+
+Here is [a list of my stuffs](/stuffs)
