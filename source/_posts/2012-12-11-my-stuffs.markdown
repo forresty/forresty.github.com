@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 
-I [blogged about simplifying my life](/blog/2012/11/17/anti-social-at-its-best/), since I know some of you might be interested, I am now making it public.
+I [blogged about simplifying my life](/blog/2012/11/17/anti-social-at-its-best/) and mentioned about a list of my stuffs, since I know some of you might be interested, I am now making it public.
 
 [Here is the list](/stuffs).
 
