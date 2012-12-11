@@ -13,12 +13,12 @@ footer: true
 - iPhone 4 16G Black
 - Kindle 3G Keyboard
 - Nike FuelBand
+- Xbox 360 w/ Kinect
+
+### less important (getting rid of them)
+
 - iPad 1 Wifi 16G
-
-### less important
-
 - iMac 27' 2011 (low end, with custom 256G SSD and 16G memory)
-- Xbox 360
 - TimeCapsule 2T
 - AppleTV 2nd Gen
 - PS3
@@ -49,8 +49,9 @@ footer: true
 
 - OS X Mountain Lion
 - Alfred w/ Powerpack (word definition etc)
-- TextMate 2
 - Things
+- TextMate 2
+- Graphviz w/ TextMate Plugin
 - Safari
 - 1Password w/ Safari Plugin
 - Spotify
@@ -58,7 +59,7 @@ footer: true
 - iStat Menus
 - Notational Velocity (one-liner diary etc)
 - Sparrow
-- Mortal (https://github.com/forresty/mortal)
+- Mortal (<https://github.com/forresty/mortal>)
 - Twitter
 - VMWare Fusion 3 (on iMac, which is running OS X Lion, for China Merchants Bank client installed in a Windows VM)
 
@@ -73,6 +74,7 @@ footer: true
 - Dianping
 - Path
 - Alien Blue
+- Tweetbot
 
 ## Services
 
@@ -80,12 +82,12 @@ footer: true
 - Gmail w/ Custom Domain
 - Linode 512
 - GitHub (5 private repos plan)
-- Droplr (image sharing)
-- Dropbox (photo backup)
 - Audible (platinum membership, 2 credits/month)
-- Kindle Store
 - Spotify Premium
 - Railscasts Pro
+- Kindle Store
+- Droplr (image sharing)
+- Dropbox (photo backup)
 - Campfire
 
 ### Chinese Services
@@ -110,8 +112,8 @@ footer: true
 
 ## Foods and drinks
 
+- Sushi
 - Steaks
 - Sea foods
-- Sushi
-- Hot chocolate
 - Green Tea
+- Hot chocolate
