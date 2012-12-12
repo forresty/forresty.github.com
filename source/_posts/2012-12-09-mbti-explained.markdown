@@ -10,7 +10,7 @@ So I [blogged about me taking online MBTI tests again](http://forresty.com/blog/
 
 Okay I know most of you are either too lazy or too busy to look into those jargons yourselves, so I am here to give a brief talk about MBTI.
 
-So basically [MBTI](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) is in indicator which reflects your psychological preferences and how you perceive the world and make decisions. It's based on the work of [Carl Jung](http://en.wikipedia.org/wiki/Carl_Jung) if you are wondering.
+So basically [MBTI](http://en.wikipedia.org/wiki/Myers-Briggs_Type_Indicator) is an indicator which reflects your psychological preferences and how you perceive the world and make decisions. It's based on the work of [Carl Jung](http://en.wikipedia.org/wiki/Carl_Jung) if you are wondering.
 
 There are many free online MBTI tests in languages of your preferences, just Google it yourself. I took several quick ones in both Chinese and English just to make sure the results are consistent.
 
