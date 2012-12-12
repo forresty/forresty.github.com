@@ -5,6 +5,7 @@ date: 2012-12-11 13:40
 comments: true
 sharing: true
 footer: true
+updated: 2012-12-12
 ---
 
 ## Hardware & Gadgets
@@ -53,7 +54,7 @@ footer: true
 - Graphviz w/ TextMate Bundle
 - Safari
 - 1Password w/ Safari Plugin
-- Spotify
+- Rdio
 - iTerm 2
 - iStat Menus
 - Notational Velocity (one-liner diary etc)
@@ -65,7 +66,7 @@ footer: true
 ### iPhone
 
 - Audible
-- Spotify
+- Rdio
 - Things
 - Messages
 - Phone
@@ -81,7 +82,7 @@ footer: true
 - Gmail w/ Custom Domain
 - GitHub (5 private repos plan)
 - Audible (platinum membership, 2 credits/month)
-- Spotify Premium
+- Rdio Unlimited
 - Railscasts Pro
 - Linode 512
 - Kindle Store
