@@ -99,3 +99,6 @@ google_analytics_tracking_id: UA-12985731-1
 
 # Facebook Like
 facebook_like: false
+
+# Gaug.es
+gauges_tracking_id: 50c8398e613f5d415e00002a
