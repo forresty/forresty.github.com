@@ -62,7 +62,7 @@ Everyone else, do you have a purpose of life? Have you given a serious thought a
 
 Sadly for me, I found that most of my types of people are in the U.S., but my roots remain here in China.
 
-I also found that no matter know wonderful a person was, when he labeled himself as a group member of whatever it is, he often degraded quickly.
+I also found that no matter how wonderful a person was, when he labeled himself as a group member of whatever it is, he often degraded quickly.
 
 Therefore I decided to stand for individualism and fight against any kind of collectivism for as long as I sustain.
 
