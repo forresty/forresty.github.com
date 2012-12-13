@@ -103,7 +103,7 @@ updated: 2012-12-12
 
 ## Home
 
-- Vatiri Clover Tea Heater
+- Vatiri Clover Tea Heater / Teapot / Tea Cups
 - JBL On Stage Micro II Portable Dock
 - E-Sun Hygrometer / Thermometer
 - Zojirushi Stainless Steel Vacuum Carafe
