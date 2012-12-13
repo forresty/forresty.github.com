@@ -28,7 +28,7 @@ Also, there is a chunk load of nihilism in games, movies and TV shows.
 
 Then I submerged into the information overload, and found Twitter to be the heaven of immediate, fragmented, overflown information. Relentlessly I looked for and followed [a lot of wonderful people](https://twitter.com/forresty/following), some of them become my heroes. I observed them closely. I was obsessed with every bit of information they spit out. I want to learn from them.
 
-Also, there is this site called <http://9gag.com>, and through 9gag I discovered <http://reddit.com>. Where pop culture meets information overload.
+Also, there is this site called [9gag](http://9gag.com), and through 9gag I discovered [Reddit](http://reddit.com). Where pop culture meets information overload.
 
 But later I realized that [being a bystander is not fun](/blog/2012/11/20/serious/). And I found patterns emerged from the informations. There is a bigger picture. I [moved](/blog/2012/11/17/anti-social-at-its-best/) [on](/blog/2012/12/08/hacker-news/).
 
