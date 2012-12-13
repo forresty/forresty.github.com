@@ -5,7 +5,7 @@ date: 2012-12-11 13:40
 comments: true
 sharing: true
 footer: true
-updated: 2012-12-12
+updated: 2012-12-14
 ---
 
 ## Hardware & Gadgets
@@ -59,7 +59,7 @@ updated: 2012-12-12
 - Sparrow
 - Mortal (<https://github.com/forresty/mortal>)
 - Twitter
-- VMWare Fusion 3 (on iMac, which is running OS X Lion, for China Merchants Bank client installed in a Windows VM)
+- VirtualBox
 
 ### iPhone
 
