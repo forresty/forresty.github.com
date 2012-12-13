@@ -12,7 +12,7 @@ After my departure, I decided to dedicate my time to seek answers to a lot of qu
 
 I want to know more about the world. I want to know more about everything. I want to know more about myself.
 
-What is the meaning of life? What is my purposes of living? What about my future, the future of the people I care about, my parents and my extended family? What is the future of this country?
+What is the meaning of life? What are my purposes of living? What about my future, the future of the people I care about, my parents and my extended family? What is the future of this country?
 
 I don't have any idea.
 
@@ -64,6 +64,6 @@ Sadly for me, I found that most of my types of people are in the U.S., but my ro
 
 I also found that no matter how wonderful a person was, when he labeled himself as a group member of whatever it is, he often degraded quickly.
 
-Therefore I decided to stand for individualism and fight against any kind of collectivism for as long as I sustain.
+Therefore I decided to stand for individualism and fight against any kind of collectivism for as long as I can sustain.
 
 But I still haven't found what I am looking for.
