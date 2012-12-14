@@ -21,6 +21,13 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - [Codes](https://github.com/forresty)
 - [Books](http://book.douban.com/people/forresty)
 
+### Favorite Books
+
+- Atlas Shrugged
+- The Fountainhead
+- On Liberty (I read [this Chinese version](http://book.douban.com/subject/6397522/). Awesome translation. [Buy it. Now.](http://book.douban.com/subject/6397522/))
+- The Social Contract
+
 ## Things I like or support
 
 - Human Rights
@@ -54,6 +61,8 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Ernest Hemingway
 - Thomas Jefferson
 - George Washington
+- <https://github.com/forresty/following>
+- <https://twitter.com/forresty/following>
 
 ## Stuffs
 

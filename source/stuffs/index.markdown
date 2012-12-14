@@ -92,6 +92,7 @@ updated: 2012-12-14
 
 - China Unicom 3G
 - Xunlei VIP
+- alipay.com
 - douban.com (book and movie reviews)
 - dianping.com (restaurant reviews)
 - amazon.cn (books, home appliances etc)
