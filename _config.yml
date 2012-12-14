@@ -59,46 +59,5 @@ sidebar: collapse
 #   3rd Party Settings    #
 # ----------------------- #
 
-# Github repositories
-github_user: forresty
-github_repo_count: 10
-github_show_profile_link: true
-github_skip_forks: false
-
-# Twitter
-twitter_user: forresty
-twitter_tweet_count: 5
-twitter_show_replies: false
-twitter_follow_button: false
-twitter_show_follower_count: false
-twitter_tweet_button: false
-
-# Google +1
-google_plus_one: false
-google_plus_one_size: medium
-
-# Google Plus Profile
-# Hidden: No visible button, just add author information to search results
-googleplus_user:
-googleplus_hidden: false
-
-# Pinboard
-pinboard_user:
-pinboard_count: 3
-
-# Delicious
-delicious_user:
-delicious_count: 3
-
-# Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
-
 # Google Analytics
 google_analytics_tracking_id: UA-12985731-1
-
-# Facebook Like
-facebook_like: false
-
-# Gaug.es
-gauges_tracking_id: 50c8398e613f5d415e00002a
