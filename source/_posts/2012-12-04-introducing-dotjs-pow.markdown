@@ -14,6 +14,8 @@ And also, there is this Chinese site [douban.com](http://douban.com), which has 
 
 Since I find myself constantly switching Safari tabs between pages from amazon.cn and douban.com, I started to think that how can I make this easier.
 
+<!-- more -->
+
 Initially, I thought about building a Safari extension, but it is not an elegant solution.
 
 Then I found this awesome piece of code called [dotjs](https://github.com/defunkt/dotjs) by GitHub CEO(!) Chris Wanstrath (a.k.a. defunkt), basically it lets you run a custom js file located in your `~/.js` each time you visit a site.
