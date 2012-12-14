@@ -40,6 +40,7 @@ updated: 2012-12-14
 - pry
 - factory_girl
 - mosh
+- ayi (<https://github.com/forresty/ayi>)
 
 ## Software
 
