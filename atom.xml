@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2012-12-16T21:48:53+08:00</updated>
+  <updated>2012-12-17T03:16:01+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Herd]]></title>
+    <link href="http://forresty.com/blog/2012/12/17/herd/"/>
+    <updated>2012-12-17T02:46:00+08:00</updated>
+    <id>http://forresty.com/blog/2012/12/17/herd</id>
+    <content type="html"><![CDATA[<p>It&#8217;s so funny to watch people claiming that they are individualists, love <em>Atlas Shrugged</em> or <em>The Fountainhead</em>, or believing in Austrian School of economics running around in groups, meeting random people on Internet, and enjoying themselves by singing Karaoke together.</p>
+
+<p>I am not against Karaoke BTW.</p>
+
+<p>Wait, maybe they are just not self-confident enough?</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Seeking Answers]]></title>
@@ -1098,316 +1111,6 @@
 <p>看着电脑屏幕上三岛由纪夫健身前后的体格对比，再低头看着右手手心为了掐灭烟头而留下的两颗水泡，我实在无法不对这个最后敢于用刀切开自己腹肌的男人致以崇高的敬意。</p>
 
 <p>于是默默地打开豆瓣，把《金阁寺》和《假面的告白》加入到本已够长的待读列表。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Notes and Quotes of Cassandra The Definitive Guide, Part-1: Introduction]]></title>
-    <link href="http://forresty.com/blog/2012/08/11/cassandra-notes-part-1/"/>
-    <updated>2012-08-11T15:11:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/08/11/cassandra-notes-part-1</id>
-    <content type="html"><![CDATA[<p>Following are the notes I took while reading <a href="http://www.amazon.com/Cassandra-Definitive-Guide-Eben-Hewitt/dp/1449390412"><em>Cassandra The Definitive Guide</em></a>. I am taking a client work that requires me to use Cassandra, so I picked up this book to get familiar with it. It was a good read.</p>
-
-<p>This article is for Chapter 1 the introduction of Cassandra and in general NoSQL. Since I am not an expert in this field, it contains a lot of quotes from the book. In fact, there are so many quotes in this article that many sentences not appear in blockquotes are actually quotes as well. Apologies for that.</p>
-
-<p>I expect myself to write at least one more article on this book, which will be more on the technical details as described in the rest of the book.</p>
-
-<!-- more -->
-
-
-<h2>History and Background</h2>
-
-<p>Cassandra was <strong>open-sourced by Facebook</strong> in July 2008. It was <strong>strongly influenced by Amazon&#8217;s Dynamo</strong> with its Dynamo-style replication model with <strong>no single point of failure</strong>, but adds a more powerful <strong>&#8220;column family&#8221;</strong> data model.</p>
-
-<p>The code was released as an open source Google Code project in July 2008. During its tenure as a Google Code project in 2008, the code was updateable only by Facebook engineers, and little community was built around it as a result. So in March 2009 it was moved to an Apache Incubator project, and on February 17, 2010 it was voted into a top-level project. Cassandra graduated from the Apache Incubator in March 2010.</p>
-
-<p><strong>How Did Cassandra Get Its Name?</strong></p>
-
-<p>In Greek mythology, Cassandra was the daughter of King Priam and Queen Hecuba of Troy. Cassandra was so beautiful that the god Apollo gave her the ability to see the future. But when she refused his amorous advances, he cursed her such that she would still be able to accurately predict everything that would happen—but no one would believe her. Cassandra foresaw the destruction of her city of Troy, but was powerless to stop it.</p>
-
-<h2>Hierarchical Databases, Relational Databases and NoSQL</h2>
-
-<h3>Hierarchical Databases</h3>
-
-<p><a href="http://en.wikipedia.org/wiki/IBM_Information_Management_System">Information Management System</a> (IMS) by IBM was a very successful hierarchical database which is accessible over a <strong>TCP/IP interface</strong> and is available from a variety of languages. It was difficult to use but nevertheless achieved wide adoption. <strong>IMS was built for use in the Saturn V moon rocket.</strong></p>
-
-<p>Then a new model came along: relational databases. And the rest was history.</p>
-
-<h3>Relational Databases</h3>
-
-<p>Dr. Edgar F.Codd at IBM wrote a paper <strong>&#8220;A Relational Model of Data for Large Shared Data Banks&#8221;</strong> which is still available at <a href="http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf">http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf</a> became the foundational work for relational database management systems.</p>
-
-<p>Then a lot of things happened. Then relational databases became a key facet of the modern technology and business landscape.</p>
-
-<h4>SQL as We All Known and Loved</h4>
-
-<p>SQL is a huge part of relational databases. It was first officially adopted as an ANSI standard in 1986, and is powerful for a variety of reasons:</p>
-
-<ul>
-<li>great expressive power</li>
-<li>easy to use</li>
-<li>easy integration with RDBMS</li>
-</ul>
-
-
-<h4>Transactions, ACID-ity, and two-phase commit</h4>
-
-<p>A database transaction is, as Jim Gray puts it, <strong>“a transformation of state” that has the ACID properties</strong> (see <a href="http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf">http://research.microsoft.com/en-us/um/people/gray/papers/theTransactionConcept.pdf</a>)</p>
-
-<h5>What is ACID?</h5>
-
-<blockquote><p>ACID is an acronym for <strong>Atomic</strong>, <strong>Consistent</strong>, <strong>Isolated</strong>, <strong>Durable</strong>, which are the gauges we can use to assess that a transaction has executed properly and that it was successful:</p>
-
-<p><strong>Atomic</strong></p>
-
-<p>Atomic means “all or nothing”; that is, when a statement is executed, every update within the transaction must succeed in order to be called successful. There is no partial failure where one update was successful and another related update failed. The common example here is with monetary transfers at an ATM: the transfer requires subtracting money from one account and adding it to another account. This operation cannot be subdivided; they must both succeed.</p>
-
-<p><strong>Consistent</strong></p>
-
-<p>Consistent means that data moves from one correct state to another correct state, with no possibility that readers could view different values that don’t make sense together. For example, if a transaction attempts to delete a Customer and her Order history, it cannot leave Order rows that reference the deleted customer’s primary key; this is an inconsistent state that would cause errors if someone tried to read those Order records.</p>
-
-<p><strong>Isolated</strong></p>
-
-<p>Isolated means that transactions executing concurrently will not become entangled with each other; they each execute in their own space. That is, if two different transactions attempt to modify the same data at the same time, then one of them will have to wait for the other to complete.</p>
-
-<p><strong>Durable</strong></p>
-
-<p>Once a transaction has succeeded, the changes will not be lost. This doesn’t imply another transaction won’t later modify the same data; it just means that writers can be confident that the changes are available for the next transaction to work with as necessary.</p></blockquote>
-
-<h5>What&#8217;s wrong with Transactions?</h5>
-
-<p><strong>Transactions are expensive and we might not need it all the time, and it become difficult under heavy load.</strong> When you first attempt to horizontally scale a relational database, you must now account for <em>distributed transations</em>, where the transaction isn’t simply operating inside a single table or a single database, but is spread across multiple systems. <strong>In order to continue to honor the ACID properties of transactions, you now need a transaction manager to orchestrate across the multiple nodes.</strong></p>
-
-<p>In order to account for successful completion across multiple hosts, the idea of a <strong>two-phase commit</strong> (sometimes referred to as “2PC”) is introduced. But then, because two-phase commit locks all associate resources, it is useful only for operations that can complete very quickly.</p>
-
-<p>Two-phase commit blocks, so clients must <strong>wait for a prior transaction to finish before they can access the blocked resource.</strong> After submitting a commit operation, the node will wait for the coordinator to send a commit response (or a rollback response if, say, a different node can’t commit).</p>
-
-<blockquote><p><strong>So in order to account for these shortcomings in two-phase commit of distributed transactions, the database world turned to the idea of compensation.</strong> Compensation, often used in web services, means in simple terms that the operation is immediately committed, and then in the event that some error is reported, a new operation is invoked to restore proper state.</p>
-
-<p>There are a few basic, well-known patterns for compensatory action that architects frequently have to consider as an alternative to two-phase commit. These include <strong>writing off the transaction if it fails, deciding to discard erroneous transactions and reconciling later</strong>. Another alternative is to <strong>retry failed operations later on notification</strong>.</p>
-
-<p><strong>In a reservation system or a stock sales ticker, these are not likely to meet your requirements. For other kinds of applications, such as billing or ticketing applications, this can be acceptable.</strong></p></blockquote>
-
-<p>Gregor Hohpe, a Google architect, wrote a wonderful and often-cited blog entry called <strong>“Starbucks Does Not Use Two-Phase Commit.”</strong> It shows in real-world terms how difficult it is to scale two-phase commit and highlights some of the alternatives that are mentioned here. <a href="http://www.eaipatterns.com/ramblings/18_starbucks.html">http://www.eaipatterns.com/ramblings/18_starbucks.html</a></p>
-
-<h4>Schema</h4>
-
-<p>Schema is how you map your domain objects into a relational model. Since we are application developers, we are all familiar with database schema and Object-Relational Mapping (ORM).</p>
-
-<p>However:</p>
-
-<blockquote><p>… <strong>you are forced to create tables that don’t exist as business objects in your domain</strong>. For example, a schema for a university database might require a Student table and a Course table. <strong>But because of the “many-to-many” relationship here (one student can take many courses at the same time, and one course has many students at the same time), you have to create a join table.</strong> This pollutes a pristine data model, where we’d prefer to just have students and courses. It also forces us to create more complex SQL statements to join these tables together. The join statements, in turn, can be slow.</p>
-
-<p>… <strong>not all schemas map well to the relational model</strong>. One type of system that has risen in popularity in the last decade is the <strong>complex event processing system, which represents state changes in a very fast stream</strong>. It’s often useful to contextualize events at runtime against other events that might be related in order to infer some conclusion to support business decision making. Although event streams could be represented in terms of a relational database, it is an uncomfortable stretch.</p></blockquote>
-
-<h4>Sharding and shared-nothing architecture</h4>
-
-<p>A way to attempt to scale a relational database is to introduce sharding to your architecture.</p>
-
-<blockquote><p>… The idea here is that you <strong>split the data</strong> so that instead of hosting all of it on a single server or replicating all of the data on all of the servers in a cluster, you divide up portions of the data horizontally and host them each separately.</p></blockquote>
-
-<p>There are three basic strategies for determining shard structure:</p>
-
-<blockquote><p><strong>Feature-based shard or functional segmentation</strong></p>
-
-<p>Using this strategy, the data is split not by dividing records in a single table (as in the customer example discussed earlier), but rather by splitting into separate databases the features that don’t overlap with each other very much. For example, at eBay, the users are in one shard, and the items for sale are in another.</p>
-
-<p><strong>Key-based sharding</strong></p>
-
-<p>In this approach, you find a key in your data that will evenly distribute it across shards. A not-so-good example is you could divide your customer records across 26 machines, one for each letter of the alphabet.</p>
-
-<p><strong>Lookup table</strong></p>
-
-<p>In this approach, one of the nodes in the cluster acts as a “yellow pages” directory and looks up which node has the data you’re trying to access. <strong>This has two obvious disadvantages.</strong> The first is that you’ll take a performance hit every time you have to go through the lookup table as an additional hop. The second is that the lookup table not only becomes a bottleneck, but a single point of failure.</p></blockquote>
-
-<p>Sharding could be termed a kind of “shared-nothing” architecture that’s specific to databases. <strong>A shared-nothing architecture is one in which there is no centralized (shared) state, but each node in a distributed system is independent, so there is no client contention for shared resources.</strong> The term was first coined by Michael Stonebraker at University of California at Berkeley in his 1986 paper “The Case for Shared Nothing.”</p>
-
-<p>Shared Nothing was more <strong>recently popularized by Google</strong>, which has written systems such as its Bigtable database and its MapReduce implementation that do not share state, and are therefore capable of <strong>near-infinite scaling</strong>. <strong>The Cassandra database is a shared-nothing architecture</strong>, as it has no central controller and no notion of master/slave; all of its nodes are the same.</p>
-
-<h3>NoSQL</h3>
-
-<p>Why NoSQL?</p>
-
-<p>Let&#8217;s have a look at how we typically address relational database scaling problems:</p>
-
-<blockquote><p>We typically address these problems in one or more of the following ways, sometimes in this order:</p>
-
-<ul>
-<li>Throw hardware at the problem by <strong>adding more memory, adding faster processors, and upgrading disks</strong>.</li>
-<li>… add hardware in the form of <strong>additional boxes in a database cluster</strong>. Now you have the problem of data replication and consistency during regular usage and in failover scenarios. You didn’t have that problem before.</li>
-<li>Now we need to update the configuration of the database management system. This might mean optimizing the channels the database uses to write to the underlying filesystem. We turn off logging or journaling, which frequently is not a desirable (or, depending on your situation, legal) option.</li>
-<li>Having put what attention we could into the database system, we turn to our application. We try to <strong>improve our indexes. We optimize the queries.</strong></li>
-<li>We employ a <strong>caching layer</strong>.</li>
-<li>We turn our attention to the database again and decide that, now that the application is built and we understand the primary query paths, we can duplicate some of the data to make it look more like the queries that access it. <strong>This process, called denormalization, is antithetical to the five normal forms that characterize the relational model, and violate Codd’s 12 Commandments for relational data.</strong> We remind ourselves that we live in this world, and not in some theoretical cloud, and then undertake to do what we must to make the application start responding at acceptable levels again, <strong>even if it’s no longer “pure.”</strong></li>
-</ul>
-</blockquote>
-
-<p>It&#8217;s now obvious that we have <strong>mistakenly</strong> learned over the years that <strong>a relational database is a one-size-fits-all solution</strong>.</p>
-
-<blockquote><p>Because of some of the <strong>inherent design decisions in RDBMS</strong>, it is not always as easy to scale as some other, more recent possibilities that take the structure of the Web into consideration. But it’s not only the structure of the Web we need to consider, but also its phenomenal growth, because as more and more data becomes available, <strong>we need architectures that allow our organizations to take advantage of this data in near-time to support decision making and to offer new and more powerful features and capabilities to our customers</strong>.</p></blockquote>
-
-<p>Let&#8217;s look at some statistics:</p>
-
-<blockquote><ul>
-<li>YouTube serves 100 million videos every day.</li>
-<li>Chevron accumulates 2TB of data every day.</li>
-<li>In 2006, the amount of data on the Internet was approximately 166 exabytes (166EB). In 2010, that number reached nearly 1,000 exabytes. An exabyte is one quintillion bytes, or 1.1 million terabytes. To put this statistic in perspective, 1EB is roughly the equivalent of 50,000 years of DVD-quality video. 166EB is approximately three million times the amount of information contained in all the books ever written.</li>
-<li>Wal-Mart’s database of customer transactions is reputed to have stored 110 terabytes in 2000, recording tens of millions of transactions per day. By 2004, it had grown to half a petabyte.</li>
-<li><strong>The movie Avatar required 1PB storage space</strong>, or the equivalent of a single MP3 song—if that MP3 were 32 years long (source: <a href="http://bit.ly/736XCz">http://bit.ly/736XCz</a>).</li>
-<li>As of May 2010, Google was provisioning 100,000 Android phones every day, all of which have Internet access as a foundational service.</li>
-<li>In 1998, the number of email accounts was approximately 253 million. By 2010, that number is closer to 2 billion.</li>
-</ul>
-</blockquote>
-
-<p>Considering the now we faced &#8220;Web Scale&#8221; problem, here is a piece of interesting historical story:</p>
-
-<blockquote><p>It has been said, though it is hard to verify, that the 17th-century English poet <strong>John Milton</strong> had actually <strong>read every published book on the face of the earth</strong>. Milton knew many languages (he was even learning Navajo at the time of his death), and given that the total number of published books at that time was in the thousands, this would have been possible. The size of the world’s data stores have grown somewhat since then.</p></blockquote>
-
-<p><strong>In a world now working at web scale and looking to the future, NoSQL is a great tool at hand for us developers to tackle the scaling problem.</strong></p>
-
-<p>Apache Cassandra might be one part of the answer.</p>
-
-<p>But also we must be aware of the <strong>NoSQL-ALL-THE-THINGS</strong> attempts:</p>
-
-<blockquote><p>If massive, elastic scalability is not an issue, the trade-offs in relative complexity of a system such as Cassandra may simply not be worth it.</p></blockquote>
-
-<h2>The Cassandra Elevator Pitch</h2>
-
-<p>This is a summary of what Cassandra is all about. Since I am not familiar with it (yet), it&#8217;s basically just quotes from the book.</p>
-
-<h3>Cassandra in 50 Words or Less</h3>
-
-<blockquote><p><strong>Apache Cassandra is an open source, distributed, decentralized, elastically scalable, highly available, fault-tolerant, tuneably consistent, column-oriented database that bases its distribution design on Amazon’s Dynamo and its data model on Google’s Bigtable. Created at Facebook, it is now used at some of the most popular sites on the Web.</strong></p></blockquote>
-
-<h3>Distrubuted and Decentrailized</h3>
-
-<blockquote><p>… Cassandra is distributed, which means that it is capable of running on multiple machines while appearing to users as a unified whole. <strong>In fact, there is little point in running a single Cassandra node.</strong></p>
-
-<p>… You can <strong>confidently write data to anywhere in the cluster</strong> and Cassandra will get it.</p>
-
-<p>Once you start to scale many other data stores (MySQL, Bigtable), some nodes need to be set up as masters in order to organize other nodes, which are set up as slaves. Cassandra, however, is decentralized, meaning that every node is identical; no Cassandra node performs certain organizing operations distinct from any other node. <strong>Instead, Cassandra features a peer-to-peer protocol and uses gossip to maintain and keep in sync a list of nodes that are alive or dead.</strong></p>
-
-<p>In many distributed data solutions (such as RDBMS clusters), you set up multiple copies of data on different servers in a process called replication, which copies the data to multiple machines so that they can all serve simultaneous requests and improve performance. <strong>Typically this process is not decentralized as in Cassandra, but is rather performed by defining a master/slave relationship.</strong></p>
-
-<p>… <strong>The decentralized design is therefore one of the keys to Cassandra’s high availability</strong>. Note that while we frequently understand master/slave replication in the RDBMS world, <strong>there are NoSQL databases such as MongoDB that follow the master/slave scheme as well.</strong></p></blockquote>
-
-<h3>Elastic Scalability</h3>
-
-<blockquote><p><strong>Scalability is an architectural feature of a system that can continue serving a greater number of requests with little degradation in performance.</strong></p>
-
-<p>Elastic scalability refers to a special property of horizontal scalability. It means that your cluster can seamlessly scale up and scale back down. … You don’t have to restart your process. You don’t have to change your application queries. You don’t have to manually rebalance the data yourself. <strong>Just add another machine—Cassandra will find it and start sending it work.</strong></p></blockquote>
-
-<h3>Tuneable Consistency</h3>
-
-<p><strong>Consistency essentially means that a read always returns the most recently written value.</strong></p>
-
-<blockquote><p>… scaling data stores means making certain trade-offs between <strong>data consistency</strong>, <strong>node availability</strong>, and <strong>partition tolerance</strong>.</p></blockquote>
-
-<p><strong>Cassandra is frequently called “eventually consistent”.</strong></p>
-
-<blockquote><p>Eventual consistency means on the surface that all updates will propagate throughout all of the replicas in a distributed system, but that this may take some time. Eventually, all replicas will be consistent.</p></blockquote>
-
-<p>When considering consistency, availability, and partition tolerance, we can achieve <strong>only two of these goals</strong> in a given distributed system (See <strong>CAP Theorem</strong> later in this article). At the center of the problem is data update replication. To achieve a strict consistency, all update operations will be performed synchronously, meaning that they must block, locking all replicas until the operation is complete, and forcing competing clients to wait. A side effect of such a design is that during a failure, some of the data will be entirely unavailable. <strong>As Amazon CTO Werner Vogels puts it, “rather than dealing with the uncertainty of the correctness of an answer, the data is made unavailable until it is absolutely certain that it is correct”</strong> (&#8220;Dynamo: Amazon’s Highly Distributed Key-Value Store” :<a href="http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html">http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html</a>)</p>
-
-<p>We could alternatively take an optimistic approach to replication, propagating updates to all replicas in the background in order to avoid blowing up on the client. <strong>The difficulty this approach presents is that now we are forced into the situation of detecting and resolving conflicts.</strong> A design approach must decide whether to resolve these conflicts at one of two possible times: during reads or during writes. <strong>That is, a distributed database designer must choose to make the system either always readable or always writable.</strong></p>
-
-<p><strong>Dynamo and Cassandra choose to be always writable</strong>, opting to defer the complexity of reconciliation to read operations, and realize tremendous performance gains. The alternative is to reject updates amidst network and server failures.</p>
-
-<blockquote><p><strong>In Cassandra, consistency is not an all-or-nothing proposition, so we might more accurately term it “tuneable consistency” because the client can control the number of replicas to block on for all updates.</strong> This is done by setting the <em>consistency level</em> against the <em>replication factor</em>.</p>
-
-<p>The <strong>replication factor</strong> lets you decide how much you want to pay in performance to gain more consistency. <strong>You set the replication factor to the number of nodes in the cluster you want the updates to propagate to</strong> (remember that an update means any add, update, or delete operation).</p>
-
-<p>The <strong>consistency level</strong> is <strong>a setting that clients must specify on every operation</strong> and that allows you to decide how many replicas in the cluster must <strong>acknowledge a write operation</strong> or <strong>respond to a read operation</strong> in order to be considered successful. <strong>That’s the part where Cassandra has pushed the decision for determining consistency out to the client.</strong></p>
-
-<p>So if you like, you could <strong>set the consistency level to a number equal to the replication factor</strong>, and <strong>gain stronger consistency at the cost of synchronous blocking operations that wait for all nodes to be updated and declare success before returning</strong>. This is not often done in practice with Cassandra, however, for reasons that should be clear (it defeats the availability goal, would impact performance, and generally goes against the grain of why you’d want to use Cassandra in the first place). <strong>So if the client sets the consistency level to a value less than the replication factor, the update is considered successful even if some nodes are down.</strong></p></blockquote>
-
-<h3>Brewer’s CAP Theorem</h3>
-
-<blockquote><p>While working at University of California at Berkeley, Eric Brewer posited his CAP theorem in 2000 at the ACM Symposium on the Principles of Distributed Computing. The theorem states that within a large-scale distributed data system, there are three requirements that have a relationship of sliding dependency: <strong>Consistency</strong>, <strong>Availability</strong>, and <strong>Partition Tolerance</strong>.</p>
-
-<p><strong>Consistency</strong></p>
-
-<p>All database clients will read the same value for the same query, even given concurrent updates.</p>
-
-<p><strong>Availability</strong></p>
-
-<p>All database clients will always be able to read and write data.</p>
-
-<p><strong>Partition Tolerance</strong></p>
-
-<p>The database can be split into multiple machines; it can continue functioning in the face of network segmentation breaks.</p></blockquote>
-
-<p>Brewer’s theorem is that in any given system, you can strongly support only two of the three. <strong>This is analogous to the saying you may have heard in software development: “You can have it good, you can have it fast, you can have it cheap: pick two.”</strong></p>
-
-<p>The CAP theorem was formally proved to be true by Seth Gilbert and Nancy Lynch of MIT in 2002. In distributed systems, however, it is very likely that you will have network partitioning, and that at some point, machines will fail and cause others to become unreachable. Packet loss, too, is nearly inevitable. <strong>This leads us to the conclusion that a distributed system must do its best to continue operating in the face of network partitions (to be Partition-Tolerant), leaving us with only two real options to choose from: Availability and Consistency.</strong></p>
-
-<p><strong>Where different databases appear on the CAP continuum</strong></p>
-
-<p><img src="http://forresty.com/images/CAP-databases.png" alt="Where different databases appear on the CAP continuum" /></p>
-
-<blockquote><p><strong>In this depiction, relational databases are on the line between Consistency and Availability, which means that they can fail in the event of a network failure (including a cable breaking).</strong> This is typically achieved by defining a single master server, which could itself go down, or an array of servers that simply don’t have sufficient mechanisms built in to continue functioning in the case of network partitions.</p></blockquote>
-
-<p>What does it mean in practical terms to support only two of the three facets of CAP?</p>
-
-<blockquote><p><strong>CA</strong></p>
-
-<p><strong>To primarily support Consistency and Availability means that you’re likely using two-phase commit for distributed transactions.</strong> It means that the system will block when a network partition occurs, so it may be that your system is limited to a single data center cluster in an attempt to mitigate this. If your application needs only this level of scale, this is easy to manage and allows you to rely on familiar, simple structures.</p>
-
-<p><strong>CP</strong></p>
-
-<p>To primarily support Consistency and Partition Tolerance, you may try to advance your architecture by setting up data shards in order to scale. Your data will be consistent, <strong>but you still run the risk of some data becoming unavailable if nodes fail.</strong></p>
-
-<p><strong>AP</strong></p>
-
-<p>To primarily support Availability and Partition Tolerance, your system <strong>may return inaccurate data</strong>, but the system will <strong>always be available</strong>, even in the face of network partitioning. <strong>DNS is perhaps the most popular example of a system that is massively scalable, highly available, and partition-tolerant.</strong></p></blockquote>
-
-<h3>Row-Oriented</h3>
-
-<blockquote><p>… although it’s not wrong to say that Cassandra is columnar or column-oriented, it might be more helpful to think of it as an indexed, row-oriented store.</p></blockquote>
-
-<p><strong>Cassandra stores data in what can be thought of for now as a multidimensional hash table.</strong> That means you don’t have to decide ahead of time precisely what your data structure must look like, or what fields your records will need. This can be useful if you’re in startup mode and are adding or changing features with some frequency. It is also attractive if you need to support an Agile development methodology and aren’t free to take months for up-front analysis.</p>
-
-<blockquote><p>… Cassandra requires a shift in how you think about data. Instead of designing a pristine data model and then designing queries around the model as in RDBMS, <strong>you are free to think of your queries first, and then provide the data that answers them</strong>.</p></blockquote>
-
-<h3>Schema-Free</h3>
-
-<p><strong>Cassandra requires you to define an outer container, called a keyspace, that contains column families.</strong> The keyspace is essentially just a logical namespace to hold column families and certain configuration properties. The column families are names for associated data and a sort order. <strong>Beyond that, the data tables are sparse, so you can just start adding data to it, using the columns that you want; there’s no need to define your columns ahead of time.</strong> Instead of modeling data up front using expensive data modeling tools and then writing queries with complex join statements, Cassandra asks you to model the queries you want, and then provide the data around them.</p>
-
-<h2>Use Cases for Cassandra</h2>
-
-<ul>
-<li>Large Deployments</li>
-<li>Lots of Writes, Statistics, and Analysis</li>
-<li>Geographical Distribution</li>
-<li>Evolving Applications</li>
-</ul>
-
-
-<h2>Who is Using Cassandra?</h2>
-
-<ul>
-<li><strong>Twitter</strong> is using Cassandra for analytics. In a much-publicized blog post (at <a href="http://engineering.twitter.com/2010/07/cassandra-at-twitter-today.html">http://engineering.twitter.com/2010/07/cassandra-at-twitter-today.html</a>, Twitter’s primary Cassandra engineer, Ryan King, explained that <strong>Twitter had decided against using Cassandra as its primary store for tweets</strong>, as originally planned, but would instead use it in production for several different things: for real-time analytics, for geolocation and places of interest data, and for data mining over the entire user store.</li>
-<li>Mahalo uses it for its primary near-time data store.</li>
-<li><strong>Facebook</strong> still uses it for inbox search, though they are using a proprietary fork.</li>
-<li>Digg uses it for its primary near-time data store.</li>
-<li>Rackspace uses it for its cloud service, monitoring, and logging.</li>
-<li><strong>Reddit</strong> uses it as a persistent cache.</li>
-<li>Cloudkick uses it for monitoring statistics and analytics.</li>
-<li>Ooyala uses it to store and serve near real-time video analytics data.</li>
-<li>SimpleGeo uses it as the main data store for its real-time location infrastructure.</li>
-<li>Onespot uses it for a subset of its main data store.</li>
-</ul>
-
-
-<h2>Interesting Quotes from Book</h2>
-
-<p>If at first the idea is not absurd, then there is no hope for it. &#8211; Albert Einstein</p>
-
-<p>If I had asked people what they wanted, they would have said faster horses. &#8211; Henry Ford</p>
-
-<p>If you can’t split it, you can’t scale it. &#8211; Randy Shoup, Distinguished Architect, eBay</p>
-
-<p>An invention has to make sense in the world in which it is finished, not the world in which it is started. &#8211; Ray Kurzweil</p>
 ]]></content>
   </entry>
   
