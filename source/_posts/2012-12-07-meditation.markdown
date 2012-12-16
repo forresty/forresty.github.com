@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "meditation"
+title: "Meditation"
 date: 2012-12-07 20:58
 comments: true
 categories:

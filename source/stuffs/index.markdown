@@ -20,7 +20,6 @@ updated: 2012-12-14
 
 - iMac 27' 2011 (low end, with custom 256G SSD and 16G memory)
 - TimeCapsule 2T
-- PS3
 
 ## Work
 
@@ -115,5 +114,5 @@ updated: 2012-12-14
 - Sushi
 - Steaks
 - Sea foods
-- Green Tea
+- Green tea
 - Hot chocolate

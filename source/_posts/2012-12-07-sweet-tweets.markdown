@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sweet tweets"
+title: "Sweet Tweets"
 date: 2012-12-07 21:48
 comments: true
 categories:

@@ -3,7 +3,7 @@ layout: post
 title: "You may win a battle, but you've lost a war"
 date: 2012-07-15 04:09
 comments: true
-categories: 
+categories:
 ---
 
 对豆瓣上空军一号[这篇影评](http://movie.douban.com/review/1009222/)的分析，已经在豆瓣上作为评论回复给原作者 ：D
@@ -32,7 +32,7 @@ categories:
 
 只能说你的煽动性技巧不错。最好玩的是你在倒数第二段说道：
 
-「辞藻华丽的枪稿可能还会继续蒙蔽一部分人，但是会有越来越多的人跳过枪稿，阅读正文。」 
+「辞藻华丽的枪稿可能还会继续蒙蔽一部分人，但是会有越来越多的人跳过枪稿，阅读正文。」
 
 咦，你是在说自己辞藻华丽么？：D
 

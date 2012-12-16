@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ayi loves you"
+title: "Ayi Loves You"
 date: 2012-12-11 17:26
 comments: true
 categories:

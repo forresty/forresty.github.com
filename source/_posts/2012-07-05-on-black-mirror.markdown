@@ -3,7 +3,7 @@ layout: post
 title: "用重辣，只是因为食材太差"
 date: 2012-07-05 02:45
 comments: true
-categories: 
+categories:
 ---
 
 **剧透警告**

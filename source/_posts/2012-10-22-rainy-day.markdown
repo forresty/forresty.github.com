@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "rainy day"
+title: "Rainy Day"
 date: 2012-10-22 14:39
 comments: true
 categories:

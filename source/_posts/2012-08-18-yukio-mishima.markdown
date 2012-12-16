@@ -3,7 +3,7 @@ layout: post
 title: "三岛由纪夫"
 date: 2012-08-18 00:39
 comments: true
-categories: 
+categories:
 ---
 
 引自[维基百科](http://zh.wikipedia.org/zh-cn/%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB)：

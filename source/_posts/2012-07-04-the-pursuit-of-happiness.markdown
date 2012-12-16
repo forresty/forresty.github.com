@@ -3,7 +3,7 @@ layout: post
 title: "追求幸福的权利"
 date: 2012-07-04 04:58
 comments: true
-categories: 
+categories:
 ---
 
 最近读了不少书，大多数是中文的。

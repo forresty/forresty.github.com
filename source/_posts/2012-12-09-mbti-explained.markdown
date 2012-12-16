@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MBTI explained"
+title: "MBTI Explained"
 date: 2012-12-09 10:59
 comments: true
 categories:

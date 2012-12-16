@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "smoking and quitting"
+title: "Smoking and Quitting"
 date: 2012-10-15 20:58
 comments: true
 categories:
