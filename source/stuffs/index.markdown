@@ -106,13 +106,4 @@ updated: 2012-12-14
 
 - Vatiri Clover Tea Heater / Teapot / Tea Cups
 - JBL On Stage Micro II Portable Dock
-- E-Sun Hygrometer / Thermometer
 - Zojirushi Stainless Steel Vacuum Carafe
-
-## Foods and drinks
-
-- Sushi
-- Steaks
-- Sea foods
-- Green tea
-- Hot chocolate
