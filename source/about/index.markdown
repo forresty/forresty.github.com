@@ -2,10 +2,8 @@
 layout: page
 title: "About Me"
 date: 2012-11-21 15:28
-comments: true
-sharing: true
 footer: true
-updated: 2012-12-14
+updated: 2012-12-18
 ---
 
 Hi, I am Forrest.
@@ -36,7 +34,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - GitHub
 - Perfectionism
 - Good products
-- Logic and Reason
+- Logic and reason
 - Minimizing government
 - Legalizing marijuana
 - Legalizing gambling
@@ -47,7 +45,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 
 - The Great-Firewall of China
 - The Communist Party of China
-- Communism or any other sort of Totalitarianism
+- Communism or any other sort of totalitarianism
 - Collectivism
 - Blind patriotism
 
@@ -56,6 +54,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Elon Musk
 - Steve Jobs
 - John Adams
+- Aung San Suu Kyi
 - John Stuart Mill
 - Jean-Jacques Rousseau
 - Ernest Hemingway
