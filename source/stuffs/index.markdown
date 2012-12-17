@@ -2,10 +2,8 @@
 layout: page
 title: "Stuffs"
 date: 2012-12-11 13:40
-comments: true
-sharing: true
 footer: true
-updated: 2012-12-14
+updated: 2012-12-18
 ---
 
 ## Hardware & Gadgets
@@ -15,9 +13,6 @@ updated: 2012-12-14
 - Kindle 3G Keyboard
 - Nike FuelBand
 - Xbox 360 w/ Kinect
-
-### less important (getting rid of them)
-
 - iMac 27' 2011 (low end, with custom 256G SSD and 16G memory)
 - TimeCapsule 2T
 
@@ -27,7 +22,6 @@ updated: 2012-12-14
 - homebrew
 - oh-my-zsh
 - github-gem
-- gitx
 - ruby
 - rbenv
 - rails
@@ -35,9 +29,7 @@ updated: 2012-12-14
 - rspec
 - guard
 - thor
-- shotgun
 - pry
-- factory_girl
 - mosh
 - ayi (<https://github.com/forresty/ayi>)
 
@@ -55,7 +47,6 @@ updated: 2012-12-14
 - Rdio
 - iTerm 2
 - iStat Menus
-- Notational Velocity (one-liner diary etc)
 - Sparrow
 - Mortal (<https://github.com/forresty/mortal>)
 - Twitter
@@ -68,8 +59,7 @@ updated: 2012-12-14
 - Things
 - Messages
 - Phone
-- Verbs
-- Dianping
+- Verbs Pro
 - Path
 - Alien Blue
 - Tweetbot
@@ -86,7 +76,6 @@ updated: 2012-12-14
 - Kindle Store
 - Droplr (image sharing)
 - Dropbox (photo backup)
-- Campfire
 
 ### Chinese Services
 
@@ -94,8 +83,8 @@ updated: 2012-12-14
 - Xunlei VIP
 - alipay.com
 - douban.com (book and movie reviews)
-- dianping.com (restaurant reviews)
 - amazon.cn (books, home appliances etc)
+- dianping.com (restaurant reviews)
 - yihaodian.com (foods, misc etc)
 - gap.com.cn (clothes)
 - taobao.com (misc purchases)
