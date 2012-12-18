@@ -94,5 +94,4 @@ updated: 2012-12-18
 ## Home
 
 - Vatiri Clover Tea Heater / Teapot / Tea Cups
-- JBL On Stage Micro II Portable Dock
 - Zojirushi Stainless Steel Vacuum Carafe
