@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 date: 2012-11-21 15:28
 footer: true
-updated: 2012-12-26
+updated: 2012-12-29
 ---
 
 Hi, I am Forrest.
@@ -55,6 +55,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - Aung San Suu Kyi
 - John Stuart Mill
 - Doris Lessing
+- Okakura Tenshin
 - Jean-Jacques Rousseau
 - Ernest Hemingway
 - Thomas Jefferson
