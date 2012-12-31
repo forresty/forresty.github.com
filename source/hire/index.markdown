@@ -24,6 +24,4 @@ It's said that you can **only pick 2** out of the following 3 factors in creatin
 
 **I will not allow myself to build bad products**. Life is short, I pick **good and fast**.
 
-Currently my hourly rate starts at $30.
-
 Drop me an email at afu@forresty.com so that we can discuss.
