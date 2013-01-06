@@ -61,7 +61,6 @@ updated: 2012-12-18
 - Phone
 - Verbs Pro
 - Path
-- Alien Blue
 - Tweetbot
 
 ## Services
