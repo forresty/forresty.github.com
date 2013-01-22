@@ -11,7 +11,7 @@ Around the end of the last year, I finally found myself have a rough understandi
 
 Then I started to break down my long-term goals into small steps, and execute them one by one following the plan.
 
-Apparently my most valuable asset is my time, and how well I can achieve my goals depends solely on how effectively I can spend my time. So I built a pet project code-named Sandglass to do some sort of recording and measurements on how I spend my time.
+Apparently my most valuable asset is my time, and how well I can achieve my goals depends solely on how effectively I can spend my time. So I built a pet project code-named Sandglass to do some sort of recording and measurements.
 
 It's still very early and very rough, maybe later I will polish it and make it an online service, or maybe I will open source it, or maybe it will stay a private project forever, I haven't decided yet.
 
