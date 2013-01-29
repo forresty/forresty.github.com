@@ -5,8 +5,6 @@ date: 2013-01-29 14:05
 categories:
 ---
 
+Letter to Abigail Adams (12 May 1780):
 
-
-> I must study Politicks and War that my sons may have liberty to study Mathematicks and Philosophy. My sons ought to study Mathematicks and Philosophy, Geography, natural History, Naval Architecture, navigation, Commerce and Agriculture, in order to give their Children a right to study Painting, Poetry, Musick, Architecture, Statuary, Tapestry and Porcelaine.
-
-> (12 May 1780) - John Adams
+> I must study politics and war, that our sons may have liberty to study mathematics and philosophy. Our sons ought to study mathematics and philosophy, geography, natural history and naval architecture, navigation, commerce and agriculture in order to give their children a right to study painting, poetry, music, architecture, statuary, tapestry and porcelain.
