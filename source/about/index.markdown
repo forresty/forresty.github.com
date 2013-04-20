@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 date: 2012-11-21 15:28
 footer: true
-updated: 2012-12-29
+updated: 2013-04-20
 ---
 
 Hi, I am Forrest.
@@ -19,6 +19,8 @@ I currently live in Shanghai, and am planning to move to the United States in th
 
 ### Favorite Books
 
+- What I Talk About When I Talk About Running
+- Sophie's World
 - Atlas Shrugged
 - The Fountainhead
 - On Liberty (I read [this Chinese version](http://book.douban.com/subject/6397522/). Awesome translation. [Buy it. Now.](http://book.douban.com/subject/6397522/))
