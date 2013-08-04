@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2013-04-20T21:55:25+08:00</updated>
+  <updated>2013-08-05T01:01:20+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Create]]></title>
+    <link href="http://forresty.com/blog/2013/08/05/create/"/>
+    <updated>2013-08-05T00:45:00+08:00</updated>
+    <id>http://forresty.com/blog/2013/08/05/create</id>
+    <content type="html"><![CDATA[<p>@_why:</p>
+
+<blockquote><p>when you don&#8217;t create things, you become defined by your tastes rather than ability. your tastes only narrow &amp; exclude people. so create.</p></blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Pigeons and Lions]]></title>
@@ -1023,25 +1034,6 @@
 <li><a href="http://en.wikipedia.org/wiki/Thomas_Edison">Thomas Edison</a></li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sociopath]]></title>
-    <link href="http://forresty.com/blog/2012/10/25/sociopath/"/>
-    <updated>2012-10-25T17:14:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/10/25/sociopath</id>
-    <content type="html"><![CDATA[<p>Just saw this on quora:</p>
-
-<p><a href="http://www.quora.com/Ayn-Rand/Why-do-so-many-engineering-types-with-poor-social-skills-think-Ayn-Rand-is-great">http://www.quora.com/Ayn-Rand/Why-do-so-many-engineering-types-with-poor-social-skills-think-Ayn-Rand-is-great</a></p>
-
-<p>It certainly makes these <strong>people people</strong> feel good by denouncing us sociopaths.</p>
-
-<p>Well, I <strong>love</strong> <em>Atlas Shrugged</em> and <em>The Fountainhead</em>, though I don&#8217;t quite like her, thus the title of the question doesn&#8217;t really apply to me. It&#8217;s just seeing the very wording of this question and the top answer reminds me how much I don&#8217;t like most people.</p>
-
-<p>I am a sociopath, and I am quite comfortable with it.</p>
-
-<p>I really wish I can block topics such as <strong>People Skills</strong> on Quora.</p>
 ]]></content>
   </entry>
   
