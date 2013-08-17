@@ -9,7 +9,7 @@ _-- Poem from Before Sunrise_
 
 Daydream delusion
 
-Limousine Eyelash
+Limousine eyelash
 
 Oh, baby with your pretty face
 
