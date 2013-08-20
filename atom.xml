@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2013-08-17T11:23:50+08:00</updated>
+  <updated>2013-08-21T00:13:21+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Life Is Elsewhere]]></title>
+    <link href="http://forresty.com/blog/2013/08/20/life-is-elsewhere/"/>
+    <updated>2013-08-20T23:57:00+08:00</updated>
+    <id>http://forresty.com/blog/2013/08/20/life-is-elsewhere</id>
+    <content type="html"><![CDATA[<p>I used to lol as Milan Kundera took his mockery at poets, but now I find the temptation of becoming one of them quite irresistible.</p>
+
+<p>How sarcastic.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Milkshakes]]></title>
@@ -1004,53 +1015,6 @@
 <p>TL;DR:</p>
 
 <p>TIL in JavaScript functions are objects, and Object is a function.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Serious]]></title>
-    <link href="http://forresty.com/blog/2012/11/20/serious/"/>
-    <updated>2012-11-20T11:16:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/11/20/serious</id>
-    <content type="html"><![CDATA[<p>Last night, when I was having dinner with my girlfriend at a restaurant, a waiter accidentally dropped a receipt to the floor when passing by our table.</p>
-
-<p>I know this is just a little thing and probably had already happened to you before. But in this case, what would you do?</p>
-
-<p>Well. For me, I picked it up, took a look at it, then gave it back to the waiter then standing behind a counter not far away.</p>
-
-<p>And I thought that was the end of the story.</p>
-
-<p>But one hour later, we found out that my girlfriend had left her cell phone at the restaurant, and apparently someone was trying to reach us in order to return the phone.</p>
-
-<p>I rushed back to the restaurant and found the very same waiter waiting for me, smiling, and gave the phone back to me.</p>
-
-<p>To remind you, this is China, a place where when you&#8217;ve lost something you are not likely to get it back.</p>
-
-<p>I was very happy.</p>
-
-<p>Then I recalled yet another story happened to me one night several weeks ago.</p>
-
-<p>I was taking a walk near my apartment, and all of a sudden an old man tripped and fell onto the floor. I rushed forward without a thought to check on him.</p>
-
-<p>Luckily he was not hurt at all, and a bit surprisingly, he was happy seeing me coming.</p>
-
-<p>Later I remembered helping elder people who accidentally fell in China might cost you a fortune.</p>
-
-<p>Then I thought about a <a href="http://book.douban.com/review/1133203/">review</a> of <a href="http://book.douban.com/subject/4729583/">野火集</a> I read on Douban yesterday, it was the top review on the book on Douban. To quote some of her text:</p>
-
-<p>「既然关心除了关心便没有其他的价值，不会让我快乐，不会让我安详，不会让我感悟，甚至鲜血也已不能带来恐慌，哭泣也已不能带来动容，迫害也已不能带来愤怒，你说，我关心它们还有什么意义？」</p>
-
-<p>「于是我继续关心自己的一切，以及自己以外的一切八卦。」</p>
-
-<p>I want to tell you that you are wrong. It&#8217;s totally okay to be selfish, but it&#8217;s not ok to be aloof.</p>
-
-<p>If you really care about yourself, you will not be satisfied by merely stay away from everything you don&#8217;t like.</p>
-
-<p>Because there is always something small you can do everyday to make this world a better place, and who knows when what you do will come back to you and light up your day.</p>
-
-<p>As time goes by I find myself getting more and more serious about everything. Why so serious, you may ask.</p>
-
-<p>Because I care.</p>
 ]]></content>
   </entry>
   
