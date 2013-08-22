@@ -18,7 +18,7 @@ A very simple iOS game
 
 ## Dictionary
 
-A simple, fast, completely offline dictionary build with Apple built-in dictionary (UIReferenceLibraryViewController)
+A simple, fast, offline dictionary built with Apple's built-in dictionary (UIReferenceLibraryViewController)
 
 [https://github.com/forresty/Dictionary](https://github.com/forresty/Dictionary)
 
