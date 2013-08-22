@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2013-08-21T11:01:30+08:00</updated>
+  <updated>2013-08-22T13:31:21+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bipolar Disorder]]></title>
+    <link href="http://forresty.com/blog/2013/08/22/bipolar-disorder/"/>
+    <updated>2013-08-22T13:12:00+08:00</updated>
+    <id>http://forresty.com/blog/2013/08/22/bipolar-disorder</id>
+    <content type="html"><![CDATA[<p>I thought a two-month trip killed it for me already.</p>
+
+<p>Apparently I was wrong.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Move Fast and Open Source Things]]></title>
@@ -525,250 +536,6 @@
 <p>So, how can I make myself move towards INTJ?</p>
 
 <p>Maybe keep &#8220;thinking&#8221; how is not the right answer, right? ;)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Introducing dotjs-pow]]></title>
-    <link href="http://forresty.com/blog/2012/12/04/introducing-dotjs-pow/"/>
-    <updated>2012-12-04T14:06:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/12/04/introducing-dotjs-pow</id>
-    <content type="html"><![CDATA[<p>I just released a small piece of code called <a href="https://github.com/forresty/dotjs-pow">dotjs-pow</a> on GitHub, before I tell you what it is, let me tell you a short story first.</p>
-
-<p>You see, recently, I read a lot of books. I bought most of them on <a href="http://amazon.cn">amazon.cn</a> since you know, dead-tree versions of Chinese books are dirt cheap.</p>
-
-<p>And also, there is this Chinese site <a href="http://douban.com">douban.com</a>, which has generally pretty reliable Chinese book ratings and reviews, and you know what, they have some nice APIs too!</p>
-
-<p>Since I find myself constantly switching Safari tabs between pages from amazon.cn and douban.com, I started to think that how can I make this easier.</p>
-
-<!-- more -->
-
-
-<p>Initially, I thought about building a Safari extension, but it is not an elegant solution.</p>
-
-<p>Then I found this awesome piece of code called <a href="https://github.com/defunkt/dotjs">dotjs</a> by GitHub CEO(!) Chris Wanstrath (a.k.a. defunkt), basically it lets you run a custom js file located in your <code>~/.js</code> each time you visit a site.</p>
-
-<p>&#8220;Yes!&#8221;, I think, so in a hurry I installed it (albeit I have to install <a href="https://github.com/wfarr/dotjs.safariextension">dotjs.safariextension</a> as well since defunkt was a Chrome guy) and put following code in my <code>~/.js/amazon.cn.js</code> to put it to a test:</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nx">$</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
-</span><span class='line'>    <span class="nx">url</span> <span class="o">:</span> <span class="s1">&#39;http://api.douban.com/book/subjects?alt=json&amp;q=9787533935030&#39;</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">type</span> <span class="o">:</span> <span class="s1">&#39;get&#39;</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">dataType</span> <span class="o">:</span> <span class="s1">&#39;JSON&#39;</span><span class="p">,</span>
-</span><span class='line'>    <span class="nx">success</span> <span class="o">:</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>      <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;yay!&#39;</span><span class="p">);</span>
-</span><span class='line'>    <span class="p">},</span>
-</span><span class='line'>    <span class="nx">failure</span> <span class="o">:</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>      <span class="nx">alert</span><span class="p">(</span><span class="s1">&#39;meh&#39;</span><span class="p">);</span>
-</span><span class='line'>    <span class="p">}</span>
-</span><span class='line'>  <span class="p">});</span>
-</span><span class='line'><span class="p">});</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>And points my Safari to amazon.cn. As you might have already guessed, I saw this in Safari console:</p>
-
-<p><img src="http://forresty.com/images/Access-Control-Allow-Origin.png" alt="Access-Control-Allow-Origin.png" /></p>
-
-<p>Hmm. Typical.</p>
-
-<p>Since I don&#8217;t control either amazon.cn or douban.com, one solution is that I build an API proxy for api.douban.com.</p>
-
-<p>It&#8217;s quite easy to do so using Sinatra and HTTParty:</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">require</span> <span class="s1">&#39;sinatra&#39;</span>
-</span><span class='line'><span class="nb">require</span> <span class="s1">&#39;httparty&#39;</span>
-</span><span class='line'>
-</span><span class='line'><span class="n">disable</span> <span class="ss">:protection</span>
-</span><span class='line'>
-</span><span class='line'><span class="n">get</span> <span class="s1">&#39;/api/douban/book/isbn/:isbn&#39;</span> <span class="k">do</span>
-</span><span class='line'>  <span class="n">headers</span> <span class="s1">&#39;Access-Control-Allow-Origin&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;*&#39;</span><span class="p">,</span> <span class="s1">&#39;Content-Type&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;application/json; charset=utf-8&#39;</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="no">HTTParty</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;http://api.douban.com/book/subjects?alt=json&amp;q=</span><span class="si">#{</span><span class="n">params</span><span class="o">[</span><span class="ss">:isbn</span><span class="o">]</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">body</span>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>But of course I don&#8217;t want to put the proxy on the Internet! So am I going to run yet another service on my localhost? Hmm, I don&#8217;t like ugly hacks.</p>
-
-<p>Then I realized <code>djsd</code> used by dotjs is just a static file server, and since I already have a Rack-compliant <a href="https://github.com/37signals/pow">Pow</a> running on my machine (as many Rubyists do), why not just build a Pow powered dotjs server, which can also be used to bypass cross-site security protections as well?</p>
-
-<p>Thus <a href="https://github.com/forresty/dotjs-pow">dotjs-pow</a> was born.</p>
-
-<p>And with following codes in my <code>~/.js/amazon.cn.js</code>, job&#8217;s done.</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-<span class='line-number'>20</span>
-<span class='line-number'>21</span>
-<span class='line-number'>22</span>
-<span class='line-number'>23</span>
-<span class='line-number'>24</span>
-<span class='line-number'>25</span>
-<span class='line-number'>26</span>
-<span class='line-number'>27</span>
-<span class='line-number'>28</span>
-<span class='line-number'>29</span>
-<span class='line-number'>30</span>
-<span class='line-number'>31</span>
-<span class='line-number'>32</span>
-<span class='line-number'>33</span>
-<span class='line-number'>34</span>
-<span class='line-number'>35</span>
-<span class='line-number'>36</span>
-<span class='line-number'>37</span>
-<span class='line-number'>38</span>
-<span class='line-number'>39</span>
-<span class='line-number'>40</span>
-<span class='line-number'>41</span>
-<span class='line-number'>42</span>
-<span class='line-number'>43</span>
-<span class='line-number'>44</span>
-<span class='line-number'>45</span>
-<span class='line-number'>46</span>
-<span class='line-number'>47</span>
-</pre></td><td class='code'><pre><code class='javascript'><span class='line'><span class="nb">String</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">trim</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/^\s+|\s+$/g</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">);</span>
-</span><span class='line'><span class="p">};</span>
-</span><span class='line'>
-</span><span class='line'><span class="nb">String</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">isbnize</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/,.+$/g</span><span class="p">,</span> <span class="s1">&#39;&#39;</span><span class="p">).</span><span class="nx">trim</span><span class="p">();</span>
-</span><span class='line'><span class="p">};</span>
-</span><span class='line'>
-</span><span class='line'><span class="c1">// http://stackoverflow.com/questions/1408289/best-way-to-do-variable-interpolation-in-javascript</span>
-</span><span class='line'><span class="nb">String</span><span class="p">.</span><span class="nx">prototype</span><span class="p">.</span><span class="nx">supplant</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">o</span><span class="p">)</span> <span class="p">{</span>
-</span><span class='line'>  <span class="k">return</span> <span class="k">this</span><span class="p">.</span><span class="nx">replace</span><span class="p">(</span><span class="sr">/{([^{}]*)}/g</span><span class="p">,</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">a</span><span class="p">,</span> <span class="nx">b</span><span class="p">)</span> <span class="p">{</span>
-</span><span class='line'>    <span class="kd">var</span> <span class="nx">r</span> <span class="o">=</span> <span class="nx">o</span><span class="p">[</span><span class="nx">b</span><span class="p">];</span>
-</span><span class='line'>    <span class="k">return</span> <span class="k">typeof</span> <span class="nx">r</span> <span class="o">===</span> <span class="s1">&#39;string&#39;</span> <span class="o">||</span> <span class="k">typeof</span> <span class="nx">r</span> <span class="o">===</span> <span class="s1">&#39;number&#39;</span> <span class="o">?</span> <span class="nx">r</span> <span class="o">:</span> <span class="nx">a</span><span class="p">;</span>
-</span><span class='line'>  <span class="p">});</span>
-</span><span class='line'><span class="p">};</span>
-</span><span class='line'>
-</span><span class='line'><span class="nx">$</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>  <span class="kd">var</span> <span class="nx">b</span> <span class="o">=</span> <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;b:contains(&quot;ISBN:&quot;)&#39;</span><span class="p">);</span>
-</span><span class='line'>  <span class="k">if</span> <span class="p">(</span><span class="nx">b</span><span class="p">.</span><span class="nx">length</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
-</span><span class='line'>    <span class="kd">var</span> <span class="nx">isbn</span> <span class="o">=</span> <span class="nx">b</span><span class="p">[</span><span class="mi">0</span><span class="p">].</span><span class="nx">nextSibling</span><span class="p">.</span><span class="nx">data</span><span class="p">.</span><span class="nx">isbnize</span><span class="p">();</span>
-</span><span class='line'>    <span class="nx">$</span><span class="p">.</span><span class="nx">ajax</span><span class="p">({</span>
-</span><span class='line'>      <span class="nx">url</span> <span class="o">:</span> <span class="s1">&#39;http://dotjs-pow.dev/api/douban/book/isbn/&#39;</span> <span class="o">+</span> <span class="nx">isbn</span><span class="p">,</span>
-</span><span class='line'>      <span class="nx">type</span> <span class="o">:</span> <span class="s1">&#39;get&#39;</span><span class="p">,</span>
-</span><span class='line'>      <span class="nx">dataType</span> <span class="o">:</span> <span class="s1">&#39;JSON&#39;</span><span class="p">,</span>
-</span><span class='line'>      <span class="nx">success</span> <span class="o">:</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">json</span><span class="p">)</span> <span class="p">{</span>
-</span><span class='line'>        <span class="kd">var</span> <span class="nx">numRaters</span> <span class="o">=</span> <span class="nx">json</span><span class="p">[</span><span class="s1">&#39;entry&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;gd:rating&#39;</span><span class="p">][</span><span class="s1">&#39;@numRaters&#39;</span><span class="p">];</span>
-</span><span class='line'>        <span class="kd">var</span> <span class="nx">rating</span> <span class="o">=</span> <span class="nb">Number</span><span class="p">(</span><span class="nx">json</span><span class="p">[</span><span class="s1">&#39;entry&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;gd:rating&#39;</span><span class="p">][</span><span class="s1">&#39;@average&#39;</span><span class="p">]);</span>
-</span><span class='line'>        <span class="kd">var</span> <span class="nx">link</span> <span class="o">=</span> <span class="nx">json</span><span class="p">[</span><span class="s1">&#39;entry&#39;</span><span class="p">][</span><span class="mi">0</span><span class="p">][</span><span class="s1">&#39;link&#39;</span><span class="p">][</span><span class="mi">1</span><span class="p">][</span><span class="s1">&#39;@href&#39;</span><span class="p">];</span>
-</span><span class='line'>        <span class="c1">// ratings: 7.9 =&gt; 4_0, 8.5 =&gt; 4_5, 8.6 =&gt; 5_0</span>
-</span><span class='line'>        <span class="kd">var</span> <span class="nx">stars_1</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">((</span><span class="nx">rating</span> <span class="o">+</span> <span class="mf">1.4</span><span class="p">)</span> <span class="o">/</span> <span class="mi">2</span><span class="p">);</span>
-</span><span class='line'>        <span class="kd">var</span> <span class="nx">stars_2</span> <span class="o">=</span> <span class="nb">Math</span><span class="p">.</span><span class="nx">floor</span><span class="p">(</span><span class="nx">rating</span> <span class="o">+</span> <span class="mf">1.4</span><span class="p">)</span> <span class="o">===</span> <span class="nx">stars_1</span> <span class="o">*</span> <span class="mi">2</span> <span class="o">?</span> <span class="mi">0</span> <span class="o">:</span> <span class="mi">5</span><span class="p">;</span>
-</span><span class='line'>        <span class="kd">var</span> <span class="nx">html</span> <span class="o">=</span> <span class="s1">&#39;&lt;span class=&quot;swSprite s_star_{stars_1}_{stars_2}&quot; title=&quot;{numRaters} ratings&quot;&gt;&lt;/span&gt;&lt;span&gt;(&lt;a href=&quot;{link}&quot;&gt;{rating}&lt;/a&gt;)&lt;/span&gt;&#39;</span><span class="p">.</span><span class="nx">supplant</span><span class="p">({</span>
-</span><span class='line'>          <span class="nx">stars_1</span> <span class="o">:</span> <span class="nx">stars_1</span><span class="p">,</span>
-</span><span class='line'>          <span class="nx">stars_2</span> <span class="o">:</span> <span class="nx">stars_2</span><span class="p">,</span>
-</span><span class='line'>          <span class="nx">numRaters</span> <span class="o">:</span> <span class="nx">numRaters</span><span class="p">,</span>
-</span><span class='line'>          <span class="nx">rating</span> <span class="o">:</span> <span class="nx">rating</span><span class="p">,</span>
-</span><span class='line'>          <span class="nx">link</span> <span class="o">:</span> <span class="nx">link</span>
-</span><span class='line'>        <span class="p">});</span>
-</span><span class='line'>        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">html</span><span class="p">);</span>
-</span><span class='line'>        <span class="nx">$</span><span class="p">(</span><span class="nx">html</span><span class="p">).</span><span class="nx">insertAfter</span><span class="p">(</span><span class="nx">$</span><span class="p">(</span><span class="s1">&#39;#btAsinTitle&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">].</span><span class="nx">parentNode</span><span class="p">);</span>
-</span><span class='line'>      <span class="p">},</span>
-</span><span class='line'>      <span class="nx">failure</span> <span class="o">:</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
-</span><span class='line'>        <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;something was wrong.&#39;</span><span class="p">);</span>
-</span><span class='line'>      <span class="p">}</span>
-</span><span class='line'>    <span class="p">});</span>
-</span><span class='line'>  <span class="p">};</span>
-</span><span class='line'><span class="p">});</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>Check it out in action (please forgive me, I suck at styling web pages&#8230;):</p>
-
-<p><img src="http://forresty.com/images/amazon.cn-douban-book-api.png" alt="amazon.cn-douban-book-api.png" /></p>
-
-<p>Oh, of course I have to use <a href="https://github.com/forresty/dotjs-pow.safariextension">a modified version</a> of dotjs.safariextension since I changed the server address from http://localhost:3131 to http://dotjs-pow.dev.</p>
-
-<p>The full source code of app.rb (that is, the dotjs-pow server) is as following:</p>
-
-<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-<span class='line-number'>4</span>
-<span class='line-number'>5</span>
-<span class='line-number'>6</span>
-<span class='line-number'>7</span>
-<span class='line-number'>8</span>
-<span class='line-number'>9</span>
-<span class='line-number'>10</span>
-<span class='line-number'>11</span>
-<span class='line-number'>12</span>
-<span class='line-number'>13</span>
-<span class='line-number'>14</span>
-<span class='line-number'>15</span>
-<span class='line-number'>16</span>
-<span class='line-number'>17</span>
-<span class='line-number'>18</span>
-<span class='line-number'>19</span>
-</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="c1">#!/usr/bin/env ruby</span>
-</span><span class='line'>
-</span><span class='line'><span class="nb">require</span> <span class="s2">&quot;bundler&quot;</span>
-</span><span class='line'><span class="no">Bundler</span><span class="o">.</span><span class="n">require</span>
-</span><span class='line'>
-</span><span class='line'><span class="c1"># sometimes, it is more fun to do it without protection</span>
-</span><span class='line'><span class="n">disable</span> <span class="ss">:protection</span>
-</span><span class='line'>
-</span><span class='line'><span class="n">get</span> <span class="s1">&#39;/js/:js_file&#39;</span> <span class="k">do</span>
-</span><span class='line'>  <span class="n">headers</span> <span class="s1">&#39;Access-Control-Allow-Origin&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;*&#39;</span><span class="p">,</span> <span class="s1">&#39;Content-Type&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;text/javascript; charset=utf-8&#39;</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="no">File</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="no">File</span><span class="o">.</span><span class="n">expand_path</span><span class="p">(</span><span class="s2">&quot;~/.js/</span><span class="si">#{</span><span class="n">params</span><span class="o">[</span><span class="ss">:js_file</span><span class="o">]</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">))</span> <span class="k">rescue</span> <span class="s2">&quot;{}&quot;</span>
-</span><span class='line'><span class="k">end</span>
-</span><span class='line'>
-</span><span class='line'><span class="n">get</span> <span class="s1">&#39;/api/douban/book/isbn/:isbn&#39;</span> <span class="k">do</span>
-</span><span class='line'>  <span class="n">headers</span> <span class="s1">&#39;Access-Control-Allow-Origin&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;*&#39;</span><span class="p">,</span> <span class="s1">&#39;Content-Type&#39;</span> <span class="o">=&gt;</span> <span class="s1">&#39;application/json; charset=utf-8&#39;</span>
-</span><span class='line'>
-</span><span class='line'>  <span class="no">HTTParty</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s2">&quot;http://api.douban.com/book/subjects?alt=json&amp;q=</span><span class="si">#{</span><span class="n">params</span><span class="o">[</span><span class="ss">:isbn</span><span class="o">]</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">body</span>
-</span><span class='line'><span class="k">end</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p>If you are a hopeless nerd like me, you might want to check it out yourself, visit <a href="https://github.com/forresty/dotjs-pow">dotjs-pow on GitHub</a> now.</p>
-
-<p>BTW, <a href="http://forresty.com/hire">I am currently available for hire</a>.</p>
 ]]></content>
   </entry>
   
