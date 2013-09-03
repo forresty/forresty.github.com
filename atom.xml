@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2013-08-29T07:36:04+08:00</updated>
+  <updated>2013-09-04T00:17:31+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ship Software]]></title>
+    <link href="http://forresty.com/blog/2013/09/04/ship-software/"/>
+    <updated>2013-09-04T00:04:00+08:00</updated>
+    <id>http://forresty.com/blog/2013/09/04/ship-software</id>
+    <content type="html"><![CDATA[<p>From A WWDC 2011 session video:</p>
+
+<blockquote><p>Writing easy-to-change code is your second-most important goal as a software developer.</p></blockquote>
+
+<p>What is your most important goal?</p>
+
+<p>Ship products!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Sheer Determination]]></title>
@@ -493,35 +508,6 @@
 <p>Come judge me.</p>
 
 <p>UPDATE: corrections on Kafka&#8217;s diary. BTW for a good example of well-written iOS client code, check out Cheddar by Sam Soffes <a href="https://github.com/nothingmagical/cheddar-ios">https://github.com/nothingmagical/cheddar-ios</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Sweet Tweets]]></title>
-    <link href="http://forresty.com/blog/2012/12/07/sweet-tweets/"/>
-    <updated>2012-12-07T21:48:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/12/07/sweet-tweets</id>
-    <content type="html"><![CDATA[<blockquote><p>I hate to break it to you, but your product does not depend on elegance of code. It depends on positioning and marketing. Embrace that. - @holman</p></blockquote>
-
-<p><a href="https://twitter.com/holman/status/277004349333467136">https://twitter.com/holman/status/277004349333467136</a></p>
-
-<blockquote><p>Why are engineer founders are on the rise? Businessmen create that which has worked in the past. Engineers create that which has never been. - @kneath</p></blockquote>
-
-<p><a href="https://twitter.com/kneath/status/273869571360956416">https://twitter.com/kneath/status/273869571360956416</a></p>
-
-<blockquote><p>Internet comments would be great if you could filter them by “Has this user accomplished anything? Anything at all?” - @holman</p></blockquote>
-
-<p><a href="https://twitter.com/holman/status/272800396802670592">https://twitter.com/holman/status/272800396802670592</a></p>
-
-<blockquote><p>$PATH is dependency injection for Unix. It doesn’t need to be complicated. - @sstephenson</p></blockquote>
-
-<p><a href="https://twitter.com/sstephenson/status/270673707389841408">https://twitter.com/sstephenson/status/270673707389841408</a></p>
-
-<blockquote><p>What if you designed a web framework around the error messages displayed to developers? - @kneath</p></blockquote>
-
-<p><a href="https://twitter.com/kneath/status/263062829375041536">https://twitter.com/kneath/status/263062829375041536</a></p>
-
-<p>There are reasons why companies like GitHub and 37signals are awesome.</p>
 ]]></content>
   </entry>
   
