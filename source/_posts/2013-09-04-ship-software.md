@@ -5,7 +5,7 @@ date: 2013-09-04 00:04
 categories:
 ---
 
-From A WWDC 2011 session video:
+From a WWDC 2011 session video:
 
 > Writing easy-to-change code is your second-most important goal as a software developer.
 
