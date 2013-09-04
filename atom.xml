@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2013-09-04T00:17:31+08:00</updated>
+  <updated>2013-09-05T06:56:35+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -18,7 +18,7 @@
     <link href="http://forresty.com/blog/2013/09/04/ship-software/"/>
     <updated>2013-09-04T00:04:00+08:00</updated>
     <id>http://forresty.com/blog/2013/09/04/ship-software</id>
-    <content type="html"><![CDATA[<p>From A WWDC 2011 session video:</p>
+    <content type="html"><![CDATA[<p>From a WWDC 2011 session video:</p>
 
 <blockquote><p>Writing easy-to-change code is your second-most important goal as a software developer.</p></blockquote>
 
