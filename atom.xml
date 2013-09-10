@@ -4,7 +4,7 @@
   <title><![CDATA[Forrest Ye's Blog]]></title>
   <link href="http://forresty.com/atom.xml" rel="self"/>
   <link href="http://forresty.com/"/>
-  <updated>2013-09-05T06:56:35+08:00</updated>
+  <updated>2013-09-10T19:47:05+08:00</updated>
   <id>http://forresty.com/</id>
   <author>
     <name><![CDATA[Forrest Ye]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hubris]]></title>
+    <link href="http://forresty.com/blog/2013/09/10/hubris/"/>
+    <updated>2013-09-10T19:44:00+08:00</updated>
+    <id>http://forresty.com/blog/2013/09/10/hubris</id>
+    <content type="html"><![CDATA[<p>noun</p>
+
+<p>excessive pride or self-confidence.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ship Software]]></title>
@@ -479,35 +490,6 @@
 <p>And there are still people like me who are well aware of the system and are willing to hack their own minds, and are capable of taking actions to change their types on demand and have succeeded.</p>
 
 <p>Take that.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hacker News]]></title>
-    <link href="http://forresty.com/blog/2012/12/08/hacker-news/"/>
-    <updated>2012-12-08T12:48:00+08:00</updated>
-    <id>http://forresty.com/blog/2012/12/08/hacker-news</id>
-    <content type="html"><![CDATA[<blockquote><p>Germany has declared war on Russia. Swimming in the afternoon. -Franz Kafka&#8217;s diary entry of August 2, 1914</p></blockquote>
-
-<p>When you are seeking to understand the fundamental logics and reasons of this world, sooner or later you&#8217;ll come to realize that daily trivial matters are of no importance at all.</p>
-
-<p>Thus I abandoned a private experimental Hacker News iOS app roughly 5 months ago, because I realized that I don&#8217;t want to pay that much attention to news any more.</p>
-
-<p>It&#8217;s now open source on GitHub <a href="https://github.com/forresty/Hackish">https://github.com/forresty/Hackish</a>.</p>
-
-<p>Mind you, the code sucks. It stinks, it smells. I haven&#8217;t touched a single line of Objective-C after that (except spending half an hour to clean it up last night), but I believe I can now easily write at least 5 times better in less than 1/3 of the time.</p>
-
-<p>But still, since I&#8217;ve seen a lot of pretentious people pretending that they know how to write iOS code, I think what the hell, opening this shit up to the world might not make it a worse place.</p>
-
-<p>If you go read it and think &#8220;LOL, this guy sucks&#8221;, then thank you, you motivate me.</p>
-
-<p>I tried to be humble, but this world seems to ignore humble people.</p>
-
-<p>So I say fuck this shit, I&#8217;d better be hated or laughed at than be ignored.</p>
-
-<p>Come judge me.</p>
-
-<p>UPDATE: corrections on Kafka&#8217;s diary. BTW for a good example of well-written iOS client code, check out Cheddar by Sam Soffes <a href="https://github.com/nothingmagical/cheddar-ios">https://github.com/nothingmagical/cheddar-ios</a></p>
 ]]></content>
   </entry>
   
