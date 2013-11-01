@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 date: 2012-11-21 15:28
 footer: true
-updated: 2013-04-20
+updated: 2013-10-31
 ---
 
 Hi, I am Forrest.
@@ -29,10 +29,8 @@ I currently live in Shanghai, and am planning to move to the United States in th
 ## Things I like or support
 
 - Human Rights
-- Individualism
 - Ruby
-- GitHub
-- Perfectionism
+- Pragmatic perfectionism
 - Good products
 - Logic and reason
 - Minimizing government
@@ -51,6 +49,7 @@ I currently live in Shanghai, and am planning to move to the United States in th
 
 ## People I admire or like
 
+- Jeff Bezos
 - Elon Musk
 - Steve Jobs
 - John Adams
@@ -64,7 +63,3 @@ I currently live in Shanghai, and am planning to move to the United States in th
 - George Washington
 - <https://github.com/forresty/following>
 - <https://twitter.com/forresty/following>
-
-## Stuffs
-
-Here is [a list of my stuffs](/stuffs)
